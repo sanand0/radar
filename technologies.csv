@@ -1,0 +1,1860 @@
+﻿Volume,Category,Index,Technology,Stage
+1,Techniques,1,Continuous deployment,ASSESS
+1,Techniques,2,Incremental data warehousing,ASSESS
+1,Techniques,3,Evolutionary architecture,ASSESS
+1,Techniques,4,Evolutionary database,TRIAL
+1,Techniques,5,Web as platform,TRIAL
+1,Techniques,6,Emergent design,TRIAL
+1,Techniques,7,Lean software development,TRIAL
+1,Techniques,8,Build pipelines,ADOPT
+1,Techniques,9,User centered design,ADOPT
+1,Tools,10,Visualization and metrics,TRIAL
+1,Tools,11,IE6 end of life,ADOPT
+1,Tools,12,ASP.NET MVC,ADOPT
+1,Tools,13,Next gen test tools,ASSESS
+1,Tools,14,Subversion,TRIAL
+1,Tools,15,Distributed version control,TRIAL
+1,Tools,16,Google Wave,HOLD
+1,Tools,17,Language workbenches,HOLD
+1,Tools,18,Polyglot development environments,HOLD
+1,Languages,19,C# 4.0,TRIAL
+1,Languages,20,Java language end of life,ASSESS
+1,Languages,21,Functional languages,ASSESS
+1,Languages,22,Concurrent languages,ASSESS
+1,Languages,23,DSLs,TRIAL
+1,Languages,24,JavaScript as a first class language,ADOPT
+1,Platforms,25,Android,TRIAL
+1,Platforms,26,JVM as platform,ADOPT
+1,Platforms,27,Firefox,ADOPT
+1,Platforms,28,Cloud,ADOPT
+1,Platforms,29,iPhone,ADOPT
+1,Platforms,30,HTML5,ASSESS
+1,Platforms,31,Non-relational databases,TRIAL
+1,Platforms,32,Rich Internet applications,ASSESS
+1,Platforms,33,RDF & SPARQL,ASSESS
+1,Platforms,34,Google as corporate platform,ASSESS
+1,Platforms,35,Location based services,ASSESS
+1,Platforms,36,Chrome OS,ASSESS
+1,Platforms,37,Chrome,ASSESS
+1,Platforms,38,IE8,HOLD
+2,Techniques,1,Build pipelines,ADOPT
+2,Techniques,2,Emergent design,ADOPT
+2,Techniques,3,Evolutionary database,ADOPT
+2,Techniques,4,Web as platform,ADOPT
+2,Techniques,5,Automation of technical tests,TRIAL
+2,Techniques,6,Service choreography,TRIAL
+2,Techniques,7,Lean software development,TRIAL
+2,Techniques,8,Continuous deployment,TRIAL
+2,Techniques,9,Visualization and metrics,TRIAL
+2,Techniques,10,Polyglot programming,TRIAL
+2,Techniques,11,Incremental data warehousing,ASSESS
+2,Techniques,12,OAuth,ASSESS
+2,Techniques,13,Scrum certification,HOLD
+2,Tools,14,ASP.NET MVC,ADOPT
+2,Tools,15,Subversion,ADOPT
+2,Tools,16,Squid,ADOPT
+2,Tools,17,Message buses without smarts,TRIAL
+2,Tools,18,Next gen test tools,TRIAL
+2,Tools,19,Neo4j,TRIAL
+2,Tools,20,MongoDB,TRIAL
+2,Tools,21,Distributed version control,TRIAL
+2,Tools,22,NoSQL,ASSESS
+2,Tools,23,RDF triple stores,ASSESS
+2,Tools,24,Restfulie,ASSESS
+2,Tools,25,Visualizations for business data,ASSESS
+2,Tools,26,GitHub,ASSESS
+2,Tools,27,Cross mobile platforms,ASSESS
+2,Tools,28,ESB,HOLD
+2,Tools,29,Language workbenches,HOLD
+2,Languages,30,C# 4.0,ADOPT
+2,Languages,31,Ruby,ADOPT
+2,Languages,32,JavaScript as a first class language,ADOPT
+2,Languages,33,DSLs,TRIAL
+2,Languages,34,Groovy,TRIAL
+2,Languages,35,Java language end of life,ASSESS
+2,Languages,36,F#,ASSESS
+2,Languages,37,Clojure,ASSESS
+2,Languages,38,Scala,ASSESS
+2,Languages,39,HTML5,ASSESS
+2,Platforms,40,IE6 end of life,ADOPT
+2,Platforms,41,Platform roadmaps,ADOPT
+2,Platforms,42,ALT.NET,ADOPT
+2,Platforms,43,iPhone,ADOPT
+2,Platforms,44,Cloud,ADOPT
+2,Platforms,45,JVM as platform,ADOPT
+2,Platforms,46,Android,TRIAL
+2,Platforms,47,EC2 & S3,TRIAL
+2,Platforms,48,Location based services,ASSESS
+2,Platforms,49,Large format mobile devices,ASSESS
+2,Platforms,50,Facebook as business platform,ASSESS
+2,Platforms,51,Google as corporate platform,ASSESS
+2,Platforms,52,Application appliances,ASSESS
+2,Platforms,53,Google App Engine,ASSESS
+2,Platforms,54,Mobile Web,ASSESS
+2,Platforms,55,Rich Internet Applications,HOLD
+2,Platforms,56,Azure,HOLD
+2,Platforms,57,GWT,HOLD
+2,Platforms,58,IE8,HOLD
+2,Platforms,59,WS-*,HOLD
+3,Techniques,1,Database based integration,HOLD
+3,Techniques,2,Scrum certification,HOLD
+3,Techniques,3,Incremental data warehousing,ASSESS
+3,Techniques,4,DevOps,ASSESS
+3,Techniques,5,Polyglot programming,TRIAL
+3,Techniques,6,Automation of technical tests,TRIAL
+3,Techniques,7,Capability modeling,TRIAL
+3,Techniques,8,Service choreography,TRIAL
+3,Techniques,9,Continuous deployment,TRIAL
+3,Techniques,10,Evolutionary architecture,TRIAL
+3,Techniques,11,Coding architects,ADOPT
+3,Techniques,12,Visualization and metrics,ADOPT
+3,Techniques,13,Web as platform,ADOPT
+3,Techniques,14,Emergent design,ADOPT
+3,Techniques,15,Evolutionary database,ADOPT
+3,Techniques,16,Platform roadmaps,ADOPT
+3,Techniques,17,Build pipelines,ADOPT
+3,Tools,18,ESB,HOLD
+3,Tools,19,Intentional,HOLD
+3,Tools,20,Cross mobile platforms,ASSESS
+3,Tools,21,Github,ASSESS
+3,Tools,22,Restfulie,ASSESS
+3,Tools,23,RDF triple stores,ASSESS
+3,Tools,24,Apache camel,TRIAL
+3,Tools,25,Next gen test tools,TRIAL
+3,Tools,26,NoSQL,TRIAL
+3,Tools,27,Neo4j,TRIAL
+3,Tools,28,Message buses without smarts,TRIAL
+3,Tools,29,Puppet,TRIAL
+3,Tools,30,MongoDB,TRIAL
+3,Tools,31,Mercurial,TRIAL
+3,Tools,32,Git,TRIAL
+3,Tools,33,Squid,ADOPT
+3,Tools,34,ASP.NET MVC,ADOPT
+3,Tools,35,Subversion,ADOPT
+3,Languages,36,Java language end of life,ASSESS
+3,Languages,37,F#,ASSESS
+3,Languages,38,Scala,ASSESS
+3,Languages,39,Clojure,ASSESS
+3,Languages,40,HTML5,ASSESS
+3,Languages,41,DSLs,TRIAL
+3,Languages,42,Groovy,TRIAL
+3,Languages,43,C# 4.0,ADOPT
+3,Languages,44,JRuby,ADOPT
+3,Languages,45,JavaScript as a first class language,ADOPT
+3,Languages,46,Ruby,ADOPT
+3,Platforms,47,Rich internet applications,HOLD
+3,Platforms,48,GWT,HOLD
+3,Platforms,49,IE8,HOLD
+3,Platforms,50,WS-*,HOLD
+3,Platforms,51,Azure,ASSESS
+3,Platforms,52,Mobile Web,ASSESS
+3,Platforms,53,Google App Engine,ASSESS
+3,Platforms,54,Application appliances,ASSESS
+3,Platforms,55,Google as corporate platform,ASSESS
+3,Platforms,56,GPGPU,ASSESS
+3,Platforms,57,App containers,ASSESS
+3,Platforms,58,OAuth,ASSESS
+3,Platforms,59,RDFa,ASSESS
+3,Platforms,60,Location based services,ASSESS
+3,Platforms,61,iPad,ASSESS
+3,Platforms,62,EC2 & S3,TRIAL
+3,Platforms,63,Facebook as business platform,TRIAL
+3,Platforms,64,JVM as platform,ADOPT
+3,Platforms,65,iPhone,ADOPT
+3,Platforms,66,Android,ADOPT
+3,Platforms,67,KVM,ADOPT
+3,Platforms,68,Atom,ADOPT
+3,Platforms,69,ALT.NET,ADOPT
+3,Platforms,70,IE6 End of Life,ADOPT
+4,Techniques,1,Database based integration,HOLD
+4,Techniques,2,Scrum certification,HOLD
+4,Techniques,3,Real-time business intelligence,ASSESS
+4,Techniques,4,Smart Systems,ASSESS
+4,Techniques,5,Progressive Enhancement,TRIAL
+4,Techniques,6,Automation of technical tests,TRIAL
+4,Techniques,7,Automate database deployment,TRIAL
+4,Techniques,8,Concurrency abstractions and patterns,TRIAL
+4,Techniques,9,Capability modeling,TRIAL
+4,Techniques,10,Acceptance test of journeys,TRIAL
+4,Techniques,11,DevOps,TRIAL
+4,Techniques,12,Service choreography,TRIAL
+4,Techniques,13,Continuous deployment,TRIAL
+4,Techniques,14,Categorization & prioritization of technical debt,TRIAL
+4,Techniques,15,Evolutionary architecture,TRIAL
+4,Techniques,16,Coding architects,ADOPT
+4,Techniques,17,Visualization and metrics,ADOPT
+4,Techniques,18,Web as platform,ADOPT
+4,Techniques,19,Emergent design,ADOPT
+4,Techniques,20,Evolutionary database,ADOPT
+4,Techniques,21,Platform roadmaps,ADOPT
+4,Techniques,22,Build pipelines,ADOPT
+4,Tools,23,Subversion,ADOPT
+4,Tools,24,Squid,ADOPT
+4,Tools,25,Infrastructure as code,ADOPT
+4,Tools,26,Apache camel,TRIAL
+4,Tools,27,Message buses without smarts,TRIAL
+4,Tools,28,Next gen test tools,TRIAL
+4,Tools,29,Splunk,TRIAL
+4,Tools,30,NoSQL,TRIAL
+4,Tools,31,Mercurial,TRIAL
+4,Tools,32,Git,TRIAL
+4,Tools,33,Cross mobile platforms,ASSESS
+4,Tools,34,Deltacloud,ASSESS
+4,Tools,35,Github,ASSESS
+4,Tools,36,Vagrant,ASSESS
+4,Tools,37,Restfulie,ASSESS
+4,Tools,38,WCF HTTP,ASSESS
+4,Tools,39,RDF triple stores,ASSESS
+4,Tools,40,API management services,ASSESS
+4,Tools,41,ESB,HOLD
+4,Platforms,42,KVM,ADOPT
+4,Platforms,43,Android,ADOPT
+4,Platforms,44,Atom,ADOPT
+4,Platforms,45,Heroku,TRIAL
+4,Platforms,46,Facebook as business platform,TRIAL
+4,Platforms,47,iPad,TRIAL
+4,Platforms,48,EC2 & S3,TRIAL
+4,Platforms,49,Mobile Web,TRIAL
+4,Platforms,50,GPGPU,ASSESS
+4,Platforms,51,Node.js,ASSESS
+4,Platforms,52,vFabric,ASSESS
+4,Platforms,53,OpenStack,ASSESS
+4,Platforms,54,Application appliances,ASSESS
+4,Platforms,55,RDFa,ASSESS
+4,Platforms,56,OAuth,ASSESS
+4,Platforms,57,App containers,ASSESS
+4,Platforms,58,Azure,ASSESS
+4,Platforms,59,WS-*,HOLD
+4,Platforms,60,GWT,HOLD
+4,Platforms,61,RIA,HOLD
+4,Languages,62,Ruby,ADOPT
+4,Languages,63,C# 4.0,ADOPT
+4,Languages,64,JRuby,ADOPT
+4,Languages,65,JavaScript as a first class language,ADOPT
+4,Languages,66,"SASS, SCSS, and LESS",ADOPT
+4,Languages,67,DSLs,TRIAL
+4,Languages,68,HAML,TRIAL
+4,Languages,69,Scala,TRIAL
+4,Languages,70,Groovy,TRIAL
+4,Languages,71,HTML5,TRIAL
+4,Languages,72,Java language end of life,ASSESS
+4,Languages,73,F#,ASSESS
+4,Languages,74,Clojure,ASSESS
+5,Techniques,1,Progressive enhancement,ADOPT
+5,Techniques,2,Automate database deployment,ADOPT
+5,Techniques,3,Platform roadmaps,ADOPT
+5,Techniques,4,Evolutionary database,ADOPT
+5,Techniques,5,Emergent design,ADOPT
+5,Techniques,6,Visualization and metrics,ADOPT
+5,Techniques,7,Coding architects,ADOPT
+5,Techniques,8,Evolutionary architecture,ADOPT
+5,Techniques,9,DevOps,ADOPT
+5,Techniques,10,Simple performance trending,ADOPT
+5,Techniques,11,Continuous delivery,ADOPT
+5,Techniques,12,Concurrency abstractions and patterns,TRIAL
+5,Techniques,13,Acceptance test of journeys,TRIAL
+5,Techniques,14,Categorization & prioritization of technical debt,TRIAL
+5,Techniques,15,Continuous deployment,TRIAL
+5,Techniques,16,Capability modeling,TRIAL
+5,Techniques,17,Thoughtful caching,TRIAL
+5,Techniques,18,Iterative data warehousing,TRIAL
+5,Techniques,19,Build your own radar,TRIAL
+5,Techniques,20,Event APIs,TRIAL
+5,Techniques,21,Event driven business intelligence,ASSESS
+5,Techniques,22,Smart systems,ASSESS
+5,Techniques,23,Event sourcing,ASSESS
+5,Techniques,24,Decision driven BI,ASSESS
+5,Techniques,25,Scrum certification,HOLD
+5,Techniques,26,Database based integration,HOLD
+5,Techniques,27,Procedure oriented integration,HOLD
+5,Techniques,28,Feature branching,HOLD
+5,Techniques,29,Manual infrastructure management,HOLD
+5,Tools,30,Subversion,ADOPT
+5,Tools,31,Git,ADOPT
+5,Tools,32,Infrastructure as code,ADOPT
+5,Tools,33,Github,ADOPT
+5,Tools,34,Caching reverse proxies,ADOPT
+5,Tools,35,Splunk,TRIAL
+5,Tools,36,Mercurial,TRIAL
+5,Tools,37,Message buses without smarts,TRIAL
+5,Tools,38,NoSQL,TRIAL
+5,Tools,39,Next gen test tools,TRIAL
+5,Tools,40,New Relic beyond Rails,TRIAL
+5,Tools,41,TLB,TRIAL
+5,Tools,42,Powershell,TRIAL
+5,Tools,43,Selenium 2 testing of mobile websites,TRIAL
+5,Tools,44,Deltacloud,ASSESS
+5,Tools,45,Vagrant,ASSESS
+5,Tools,46,API management services,ASSESS
+5,Tools,47,jQuery Mobile,ASSESS
+5,Tools,48,Backbone.js,ASSESS
+5,Tools,49,Sonar,ASSESS
+5,Tools,50,Open source BI/ETL tools,ASSESS
+5,Tools,51,Gradle,ASSESS
+5,Tools,52,Cross platform mobile toolkits,HOLD
+5,Tools,53,ESB,HOLD
+5,Tools,54,VCS with implicit workflow,HOLD
+5,Tools,55,Code in configuration,HOLD
+5,Platforms,56,JRuby,ADOPT
+5,Platforms,57,ATOM,ADOPT
+5,Platforms,58,KVM,ADOPT
+5,Platforms,59,AWS,ADOPT
+5,Platforms,60,Mobile web,ADOPT
+5,Platforms,61,Heroku,TRIAL
+5,Platforms,62,Tablet,TRIAL
+5,Platforms,63,Offline mobile webapps (just HTML5),TRIAL
+5,Platforms,64,Ubiquitous computing,TRIAL
+5,Platforms,65,vFabric,ASSESS
+5,Platforms,66,OpenStack,ASSESS
+5,Platforms,67,Node.js,ASSESS
+5,Platforms,68,OAuth,ASSESS
+5,Platforms,69,GPGPU,ASSESS
+5,Platforms,70,Cloud Foundry,ASSESS
+5,Platforms,71,WS-*,HOLD
+5,Platforms,72,GWT,HOLD
+5,Platforms,73,Java portal servers,HOLD
+5,Languages,74,JavaScript as a first class language,ADOPT
+5,Languages,75,HTML5,ADOPT
+5,Languages,76,"SASS, SCSS, and LESS",TRIAL
+5,Languages,77,HAML,TRIAL
+5,Languages,78,Domain-specific languages,TRIAL
+5,Languages,79,Scala,TRIAL
+5,Languages,80,Coffeescript,TRIAL
+5,Languages,81,Clojure,ASSESS
+5,Languages,82,F#,ASSESS
+5,Languages,83,Future of Java,ASSESS
+5,Languages,84,Logic in stored procedures,HOLD
+6,Techniques,1,Automate database deployment,ADOPT
+6,Techniques,2,Coding architects,ADOPT
+6,Techniques,3,Continuous delivery,ADOPT
+6,Techniques,4,Data visualizations of development and operations,ADOPT
+6,Techniques,5,DevOps,ADOPT
+6,Techniques,6,Emergent design,ADOPT
+6,Techniques,7,Evolutionary architecture,ADOPT
+6,Techniques,8,Evolutionary database,ADOPT
+6,Techniques,9,Health check pages,ADOPT
+6,Techniques,10,Simple performance trending,ADOPT
+6,Techniques,11,Test at the appropriate level,ADOPT
+6,Techniques,12,Acceptance test of journeys,TRIAL
+6,Techniques,13,Agile analytics,TRIAL
+6,Techniques,14,Build your own radar,TRIAL
+6,Techniques,15,Categorization & prioritization of technical debt,TRIAL
+6,Techniques,16,Embedding a servlet container,TRIAL
+6,Techniques,17,Event APIs,TRIAL
+6,Techniques,18,Infrastructure automation of development workstations,TRIAL
+6,Techniques,19,Out-of-container functional testing,TRIAL
+6,Techniques,20,Performance testing as a first-class citizen,TRIAL
+6,Techniques,21,Single command deploy,TRIAL
+6,Techniques,22,Thoughtful caching,TRIAL
+6,Techniques,23,Windows infrastructure automation,TRIAL
+6,Techniques,24,Event sourcing,ASSESS
+6,Techniques,25,Experience Design (XD),ASSESS
+6,Techniques,26,Mechanical sympathy,ASSESS
+6,Techniques,27,Micro-services,ASSESS
+6,Techniques,28,Production immune system,ASSESS
+6,Techniques,29,Database based integration,HOLD
+6,Techniques,30,Feature branching,HOLD
+6,Techniques,31,Manual infrastructure management,HOLD
+6,Techniques,32,Scrum certification,HOLD
+6,Techniques,33,Server / application container end-of-life,HOLD
+6,Techniques,34,Test recorders,HOLD
+6,Tools,35,Git,ADOPT
+6,Tools,36,Github,ADOPT
+6,Tools,37,Infrastructure as code,ADOPT
+6,Tools,38,Client-side MVC,TRIAL
+6,Tools,39,FPM,TRIAL
+6,Tools,40,Frank,TRIAL
+6,Tools,41,Jade,TRIAL
+6,Tools,42,JavaScript micro frameworks,TRIAL
+6,Tools,43,JavaScript tooling,TRIAL
+6,Tools,44,Log aggregation & indexing,TRIAL
+6,Tools,45,Message buses without smarts,TRIAL
+6,Tools,46,NuGet,TRIAL
+6,Tools,47,Polyglot persistence,TRIAL
+6,Tools,48,PowerShell,TRIAL
+6,Tools,49,PSake,TRIAL
+6,Tools,50,Vagrant,TRIAL
+6,Tools,51,Gradle,ASSESS
+6,Tools,52,jQuery Mobile,ASSESS
+6,Tools,53,Logic-free markup,ASSESS
+6,Tools,54,Open source BI/ETL tools,ASSESS
+6,Tools,55,Riak,ASSESS
+6,Tools,56,Sonar,ASSESS
+6,Tools,57,Code in configuration,HOLD
+6,Tools,58,Cross platform mobile toolkits,HOLD
+6,Tools,59,Enterprise service bus,HOLD
+6,Tools,60,Maven,HOLD
+6,Tools,61,VCS with implicit workflow,HOLD
+6,Platforms,62,ATOM,ADOPT
+6,Platforms,63,AWS,ADOPT
+6,Platforms,64,Care about hardware,ADOPT
+6,Platforms,65,Communication between those responsible for hardware and software,ADOPT
+6,Platforms,66,KVM,ADOPT
+6,Platforms,67,Mobile web,ADOPT
+6,Platforms,68,Domain-specific PaaS,TRIAL
+6,Platforms,69,Heroku,TRIAL
+6,Platforms,70,Linux containers,TRIAL
+6,Platforms,71,Offline mobile webapps (just HTML5),TRIAL
+6,Platforms,72,Private clouds,TRIAL
+6,Platforms,73,Tablet,TRIAL
+6,Platforms,74,Ubiquitous computing,TRIAL
+6,Platforms,75,Windows Phone,TRIAL
+6,Platforms,76,AppHarbor,TRIAL
+6,Platforms,77,Cloud Foundry,ASSESS
+6,Platforms,78,GPGPU,ASSESS
+6,Platforms,79,Hybrid clouds,ASSESS
+6,Platforms,80,Node.js,ASSESS
+6,Platforms,81,OpenSocial,ASSESS
+6,Platforms,82,Single threaded servers with asynchronous I/O,ASSESS
+6,Platforms,83,vFabric,ASSESS
+6,Platforms,84,Buying solutions you can only afford one of,HOLD
+6,Platforms,85,GWT,HOLD
+6,Platforms,86,Java Portal Servers,HOLD
+6,Platforms,87,RIA,HOLD
+6,Platforms,88,Treating VMs like physical infrastructure,HOLD
+6,Platforms,89,WS-*,HOLD
+6,Platforms,90,Zero-code packages,HOLD
+6,Languages,91,Care about languages,ADOPT
+6,Languages,92,HTML5,ADOPT
+6,Languages,93,JavaScript as a first class language,ADOPT
+6,Languages,94,Clojure,TRIAL
+6,Languages,95,CoffeeScript,TRIAL
+6,Languages,96,Domain-specific languages,TRIAL
+6,Languages,97,"SASS, SCSS, and LESS",TRIAL
+6,Languages,98,Scala,TRIAL
+6,Languages,99,ClojureScript,ASSESS
+6,Languages,100,F#,ASSESS
+6,Languages,101,Functional Java,ASSESS
+6,Languages,102,Future of Java,ASSESS
+6,Languages,103,Google Dart,HOLD
+6,Languages,104,Logic in stored procedures,HOLD
+7,Techniques,1,Health check pages,ADOPT
+7,Techniques,2,Windows infrastructure automation,ADOPT
+7,Techniques,3,Guerrilla user testing,ADOPT
+7,Techniques,4,Work-in-Progress limits,ADOPT
+7,Techniques,5,Automated deployment pipeline,ADOPT
+7,Techniques,6,In process acceptance testing,ADOPT
+7,Techniques,7,Advanced analytics,ADOPT
+7,Techniques,8,Aggregates as documents,ADOPT
+7,Techniques,9,Polyglot Persistence,TRIAL
+7,Techniques,11,Out-of-container functional testing,TRIAL
+7,Techniques,12,Micro-services,TRIAL
+7,Techniques,13,Infrastructure automation of development workstations,TRIAL
+7,Techniques,14,Agile analytics,TRIAL
+7,Techniques,15,Logs as data,TRIAL
+7,Techniques,16,Responsive web design,TRIAL
+7,Techniques,17,Mobile first,TRIAL
+7,Techniques,18,Declarative provisioning,TRIAL
+7,Techniques,19,Remote usability testing,TRIAL
+7,Techniques,20,Semantic monitoring,TRIAL
+7,Techniques,21,Edge Side Includes for page composition,TRIAL
+7,Techniques,22,Configuration in DNS,TRIAL
+7,Techniques,23,Deployment and scripting test tools,ASSESS
+7,Techniques,24,Database based integration,HOLD
+7,Techniques,25,Feature branching,HOLD
+7,Techniques,26,Test recorders,HOLD
+7,Techniques,27,Exhaustive browser-based testing,HOLD
+7,Tools,28,Infrastructure as code,ADOPT
+7,Tools,29,Embedded servlet containers,ADOPT
+7,Tools,30,Silverback,ADOPT
+7,Tools,31,AppCode,ADOPT
+7,Tools,32,Jasmine paired with Node.js,ADOPT
+7,Tools,33,Immutable servers,ADOPT
+7,Tools,34,Graphite,ADOPT
+7,Tools,35,Vagrant,TRIAL
+7,Tools,36,Gradle,TRIAL
+7,Tools,37,PSake,TRIAL
+7,Tools,38,Frank,TRIAL
+7,Tools,39,JavaScript micro frameworks,TRIAL
+7,Tools,40,Jade,TRIAL
+7,Tools,41,NuGet,TRIAL
+7,Tools,42,Highcharts,TRIAL
+7,Tools,43,D3,TRIAL
+7,Tools,44,Apache Pig,TRIAL
+7,Tools,45,SaaS performance testing tools,TRIAL
+7,Tools,46,Dependency Structure Matrices,TRIAL
+7,Tools,47,Locust,TRIAL
+7,Tools,48,Rake for Java & .Net,TRIAL
+7,Tools,49,Logic-free markup,ASSESS
+7,Tools,50,Crazy Egg,ASSESS
+7,Tools,51,Zipkin,ASSESS
+7,Tools,52,Zucchini,ASSESS
+7,Tools,53,GemJars,ASSESS
+7,Tools,54,Light Table,ASSESS
+7,Tools,55,Riemann,ASSESS
+7,Tools,56,Enterprise service bus,HOLD
+7,Tools,57,VCS with implicit workflow,HOLD
+7,Tools,58,Maven,HOLD
+7,Platforms,59,ATOM,ADOPT
+7,Platforms,60,Care about hardware,ADOPT
+7,Platforms,61,Mobile payment systems,ADOPT
+7,Platforms,62,Neo4J,ADOPT
+7,Platforms,63,Node.js,TRIAL
+7,Platforms,64,Riak,TRIAL
+7,Platforms,65,Domain-specific PaaS,TRIAL
+7,Platforms,66,Linux containers,TRIAL
+7,Platforms,67,Private clouds,TRIAL
+7,Platforms,68,Hybrid clouds,TRIAL
+7,Platforms,69,MongoDB,TRIAL
+7,Platforms,70,Continuous integration in the cloud,TRIAL
+7,Platforms,71,Couchbase,TRIAL
+7,Platforms,72,Single threaded servers with asynchronous I/O,TRIAL
+7,Platforms,73,Calatrava,ASSESS
+7,Platforms,74,Datomic,ASSESS
+7,Platforms,75,Vert.x,ASSESS
+7,Platforms,76,Azure,ASSESS
+7,Platforms,77,Open source IaaS,ASSESS
+7,Platforms,78,BigQuery,ASSESS
+7,Platforms,79,Windows Phone,ASSESS
+7,Platforms,80,WS-*,HOLD
+7,Platforms,81,Java portal servers,HOLD
+7,Platforms,82,Zero-code packages,HOLD
+7,Platforms,83,Singleton infrastructure,HOLD
+7,Platforms,84,Meteor.js,HOLD
+7,Languages,85,Clojure,ADOPT
+7,Languages,86,Scala,ADOPT
+7,Languages,87,Care about languages,ADOPT
+7,Languages,88,"SASS, SCSS, and LESS",ADOPT
+7,Languages,89,Domain-Specific Languages,TRIAL
+7,Languages,90,"Scratch, Alice, and Kodu",TRIAL
+7,Languages,91,Twitter Bootstrap,TRIAL
+7,Languages,92,Sinatra,TRIAL
+7,Languages,93,AngularJS,TRIAL
+7,Languages,93,Knockout,TRIAL
+7,Languages,94,Require.js,TRIAL
+7,Languages,95,Dropwizard,TRIAL
+7,Languages,96,Jekyll,TRIAL
+7,Languages,97,HTML5 for offline applications,TRIAL
+7,Languages,98,F#,ASSESS
+7,Languages,99,ClojureScript,ASSESS
+7,Languages,100,Lua,ASSESS
+7,Languages,101,RubyMotion,ASSESS
+7,Languages,102,Gremlin,ASSESS
+7,Languages,103,JavaScript as a platform,ASSESS
+7,Languages,104,Backbone.js,HOLD
+7,Languages,105,Logic in stored procedures,HOLD
+7,Languages,106,Google Dart,HOLD
+7,Languages,107,Component-based frameworks,HOLD
+7,Techniques,10.Performanc,Testing as a first-class citizen,TRIAL
+8,Techniques,1,Aggregates as documents,ADOPT
+8,Techniques,2,Automated deployment pipeline,ADOPT
+8,Techniques,3,Guerrilla testing,ADOPT
+8,Techniques,4,In-process acceptance testing,ADOPT
+8,Techniques,5,Mobile testing on mobile networks,ADOPT
+8,Techniques,6,Performance testing as a first-class citizen,ADOPT
+8,Techniques,7,Promises for asynchronous programming,ADOPT
+8,Techniques,8,Windows infrastructure automation,ADOPT
+8,Techniques,9,Analyzing test runs,TRIAL
+8,Techniques,10,Blue-green deployment,TRIAL
+8,Techniques,11,Co-location by telepresence,TRIAL
+8,Techniques,12,Continuous delivery for mobile devices,TRIAL
+8,Techniques,13,Database migrations for NoSQL,TRIAL
+8,Techniques,14,Edge Side Includes for page composition,TRIAL
+8,Techniques,15,HTML5 storage instead of cookies,TRIAL
+8,Techniques,16,Logs as data,TRIAL
+8,Techniques,17,Micro-services,TRIAL
+8,Techniques,18,Mobile first,TRIAL
+8,Techniques,19,Perimeterless enterprise,TRIAL
+8,Techniques,20,Responsive web design,TRIAL
+8,Techniques,21,Semantic monitoring,TRIAL
+8,Techniques,22,Capturing client-side JavaScript errors,ASSESS
+8,Techniques,23,Collaborative analytics and data science,ASSESS
+8,Techniques,24,Development environments in the cloud,ASSESS
+8,Techniques,25,Focus on mean time to recovery,ASSESS
+8,Techniques,26,Machine image as a build artifact,ASSESS
+8,Techniques,27,Minimizing application configuration,ASSESS
+8,Techniques,28,Exhaustive browser-based testing,HOLD
+8,Platforms,29,Elastic Search,ADOPT
+8,Platforms,30,MongoDB,ADOPT
+8,Platforms,31,Neo4J,ADOPT
+8,Platforms,32,Redis,ADOPT
+8,Platforms,33,SMS and USSD as a UI,ADOPT
+8,Platforms,34,BigQuery,TRIAL
+8,Platforms,35,Continuous integration in the cloud,TRIAL
+8,Platforms,36,Couchbase,TRIAL
+8,Platforms,37,Hadoop 2.0,TRIAL
+8,Platforms,38,Node.js,TRIAL
+8,Platforms,39,OpenStack,TRIAL
+8,Platforms,40,Rackspace Cloud,TRIAL
+8,Platforms,41,Riak,TRIAL
+8,Platforms,42,Azure,ASSESS
+8,Platforms,43,Calatrava,ASSESS
+8,Platforms,44,Datomic,ASSESS
+8,Platforms,45,PhoneGap/Apache Cordova,ASSESS
+8,Platforms,46,PostgreSQL for NoSQL,ASSESS
+8,Platforms,47,Vumi,ASSESS
+8,Platforms,48,Zepto.js,ASSESS
+8,Platforms,49,Big enterprise solutions,HOLD
+8,Platforms,50,Singleton infrastructure,HOLD
+8,Platforms,51,WS-*,HOLD
+8,Tools,52,D3,ADOPT
+8,Tools,53,Embedded servlet containers,ADOPT
+8,Tools,54,Frank,ADOPT
+8,Tools,55,Gradle,ADOPT
+8,Tools,56,Graphite,ADOPT
+8,Tools,57,Immutable servers,ADOPT
+8,Tools,58,NuGet,ADOPT
+8,Tools,59,PSake,ADOPT
+8,Tools,60,Apache Pig,TRIAL
+8,Tools,61,Gatling,TRIAL
+8,Tools,62,Jekyll,TRIAL
+8,Tools,63,Locust,TRIAL
+8,Tools,64,Logstash & Graylog2,TRIAL
+8,Tools,65,PhantomJS,TRIAL
+8,Tools,66,Puppet-librarian and Chef-librarian,TRIAL
+8,Tools,67,TestFlight & HockeyApp,TRIAL
+8,Tools,68,Browser-based templating,ASSESS
+8,Tools,69,Faraday,ASSESS
+8,Tools,70,Hystrix,ASSESS
+8,Tools,71,Icon fonts,ASSESS
+8,Tools,72,Light Table,ASSESS
+8,Tools,73,Octopus,ASSESS
+8,Tools,74,Reactive Extensions for .Net,ASSESS
+8,Tools,75,Riemann,ASSESS
+8,Tools,76,Snowplow Analytics & Piwik,ASSESS
+8,Tools,77,UIAutomator,ASSESS
+8,Tools,78,Heavyweight test tools,HOLD
+8,Tools,79,Maven,HOLD
+8,Tools,80,TFS,HOLD
+8,Languages,81,Clojure,ADOPT
+8,Languages,82,CSS frameworks,ADOPT
+8,Languages,83,Jasmine paired with Node.js,ADOPT
+8,Languages,84,Scala,ADOPT
+8,Languages,85,Sinatra,ADOPT
+8,Languages,86,CoffeeScript,TRIAL
+8,Languages,87,Dropwizard,TRIAL
+8,Languages,88,HTML5 for offline applications,TRIAL
+8,Languages,89,JavaScript as a platform,TRIAL
+8,Languages,90,JavaScript MV* frameworks,TRIAL
+8,Languages,91,Play Framework 2,TRIAL
+8,Languages,92,Require.js & NPM,TRIAL
+8,Languages,93,"Scratch, Alice, and Kodu",TRIAL
+8,Languages,94,ClojureScript,ASSESS
+8,Languages,95,Gremlin,ASSESS
+8,Languages,96,Lua,ASSESS
+8,Languages,97,Nancy,ASSESS
+8,Languages,98,OWIN,ASSESS
+8,Languages,99,RubyMotion,ASSESS
+8,Languages,100,Twitter Bootstrap,ASSESS
+8,Languages,101,Backbone.js,HOLD
+8,Languages,102,Component-based frameworks,HOLD
+8,Languages,103,Handwritten CSS,HOLD
+9,Techniques,1,Capturing client-side JavaScript errors,ADOPT
+9,Techniques,2,Continuous delivery for mobile devices,ADOPT
+9,Techniques,3,Mobile testing on mobile networks,ADOPT
+9,Techniques,4,Segregated DOM plus node for JS Testing,ADOPT
+9,Techniques,5,Windows infrastructure automation,ADOPT
+9,Techniques,6,Capture domain events explicitly,TRIAL
+9,Techniques,7,Client and server rendering with same code,TRIAL
+9,Techniques,8,HTML5 storage instead of cookies,TRIAL
+9,Techniques,9,Instrument all the things,TRIAL
+9,Techniques,10,Masterless Chef/Puppet,TRIAL
+9,Techniques,11,Micro-services,TRIAL
+9,Techniques,12,Perimeterless enterprise,TRIAL
+9,Techniques,13,Provisioning testing,TRIAL
+9,Techniques,14,Structured Logging,TRIAL
+9,Techniques,15,Bridging physical and digital worlds with simple hardware,ASSESS
+9,Techniques,16,Collaborative analytics and data science,ASSESS
+9,Techniques,17,Datensparsamkeit,ASSESS
+9,Techniques,18,Development environments in the cloud,ASSESS
+9,Techniques,19,Focus on mean time to recovery,ASSESS
+9,Techniques,20,Machine image as a build artifact,ASSESS
+9,Techniques,21,Tangible interaction,ASSESS
+9,Techniques,22,Cloud lift and shift,HOLD
+9,Techniques,23,Ignoring OWASP Top 10,HOLD
+9,Techniques,24,Siloed metrics,HOLD
+9,Techniques,25,Velocity as productivity,HOLD
+9,Platforms,26,Elastic Search,ADOPT
+9,Platforms,27,MongoDB,ADOPT
+9,Platforms,28,Neo4J,ADOPT
+9,Platforms,29,Node.js,ADOPT
+9,Platforms,30,Redis,ADOPT
+9,Platforms,31,SMS and USSD as a UI,ADOPT
+9,Platforms,32,Hadoop 2.0,TRIAL
+9,Platforms,33,Hadoop as a service,TRIAL
+9,Platforms,34,OpenStack,TRIAL
+9,Platforms,35,PostgreSQL for NoSQL,TRIAL
+9,Platforms,36,Vumi,TRIAL
+9,Platforms,37,Akka,ASSESS
+9,Platforms,38,Backend as a service,ASSESS
+9,Platforms,39,Low-cost robotics,ASSESS
+9,Platforms,40,PhoneGap/Apache Cordova,ASSESS
+9,Platforms,41,Private Clouds,ASSESS
+9,Platforms,42,SPDY,ASSESS
+9,Platforms,43,Storm,ASSESS
+9,Platforms,44,Web Components standard,ASSESS
+9,Platforms,45,Big enterprise solutions,HOLD
+9,Platforms,46,CMS as a platform,HOLD
+9,Platforms,47,Enterprise Data Warehouse,HOLD
+9,Tools,48,D3,ADOPT
+9,Tools,49,Dependency management for JavaScript,ADOPT
+9,Tools,50,Ansible,TRIAL
+9,Tools,51,Calabash,TRIAL
+9,Tools,52,Chaos Monkey,TRIAL
+9,Tools,53,Gatling,TRIAL
+9,Tools,54,Grunt.js,TRIAL
+9,Tools,55,Hystrix,TRIAL
+9,Tools,56,Icon fonts,TRIAL
+9,Tools,57,Librarian-puppet and Librarian-Chef,TRIAL
+9,Tools,58,Logstash & Graylog2,TRIAL
+9,Tools,59,Moco,TRIAL
+9,Tools,60,PhantomJS,TRIAL
+9,Tools,61,Prototype On Paper,TRIAL
+9,Tools,62,SnapCI,TRIAL
+9,Tools,63,Snowplow Analytics & Piwik,TRIAL
+9,Tools,64,Cloud-init,ASSESS
+9,Tools,65,Docker,ASSESS
+9,Tools,66,Octopus,ASSESS
+9,Tools,67,Sensu,ASSESS
+9,Tools,68,Travis for OSX/iOS,ASSESS
+9,Tools,69,Visual regression testing tools,ASSESS
+9,Tools,70,Xamarin,ASSESS
+9,Tools,71,Ant,HOLD
+9,Tools,72,Heavyweight test tools,HOLD
+9,Tools,73,TFS,HOLD
+9,Languages,74,Clojure,ADOPT
+9,Languages,75,Dropwizard,ADOPT
+9,Languages,76,"Scala, the good parts",ADOPT
+9,Languages,77,Sinatra,ADOPT
+9,Languages,78,CoffeeScript,TRIAL
+9,Languages,79,Go language,TRIAL
+9,Languages,80,Hive,TRIAL
+9,Languages,81,Play Framework 2,TRIAL
+9,Languages,82,Reactive Extensions across languages,TRIAL
+9,Languages,83,Web API,TRIAL
+9,Languages,84,Elixir,ASSESS
+9,Languages,85,Julia,ASSESS
+9,Languages,86,Nancy,ASSESS
+9,Languages,87,OWIN,ASSESS
+9,Languages,88,Pester,ASSESS
+9,Languages,89,Pointer Events,ASSESS
+9,Languages,90,Python 3,ASSESS
+9,Languages,91,TypeScript,ASSESS
+9,Languages,92,Yeoman,ASSESS
+9,Languages,93,Handwritten CSS,HOLD
+9,Languages,94,JSF,HOLD
+9,Languages,104,Logic in stored procedures,HOLD
+10,Techniques,1,Forward Secrecy,ADOPT
+10,Techniques,2,Segregated DOM plus node for JS Testing,ADOPT
+10,Techniques,3,Capture domain events explicitly,TRIAL
+10,Techniques,4,Development environments in the cloud,TRIAL
+10,Techniques,5,Event Sourcing,TRIAL
+10,Techniques,6,Focus on mean time to recovery,TRIAL
+10,Techniques,7,Humane registry,TRIAL
+10,Techniques,8,Inverse Conway Maneuver,TRIAL
+10,Techniques,9,Living CSS Style Guides,TRIAL
+10,Techniques,10,Machine image as a build artifact,TRIAL
+10,Techniques,11,Masterless Chef/Puppet,TRIAL
+10,Techniques,12,Perimeterless enterprise,TRIAL
+10,Techniques,13,Provisioning testing,TRIAL
+10,Techniques,14,Real user monitoring,TRIAL
+10,Techniques,15,REST without PUT,TRIAL
+10,Techniques,16,Structured logging,TRIAL
+10,Techniques,17,Tailored Service Template,TRIAL
+10,Techniques,18,Bridging physical and digital worlds with simple hardware,ASSESS
+10,Techniques,19,Datensparsamkeit,ASSESS
+10,Techniques,20,Machine image pipelines,ASSESS
+10,Techniques,21,Pace-layered Application Strategy,ASSESS
+10,Techniques,22,Property-based unit testing,ASSESS
+10,Techniques,23,Tangible interaction,ASSESS
+10,Techniques,24,Cloud lift and shift,HOLD
+10,Techniques,25,DevOps as a team,HOLD
+10,Techniques,26,Ignoring OWASP Top 10,HOLD
+10,Techniques,27,Testing as a separate organization,HOLD
+10,Techniques,28,Velocity as productivity,HOLD
+10,Platforms,29,Hadoop 2.0,ADOPT
+10,Platforms,30,Vumi,ADOPT
+10,Platforms,31,iBeacon,TRIAL
+10,Platforms,32,PostgreSQL for NoSQL,TRIAL
+10,Platforms,33,Private Clouds,TRIAL
+10,Platforms,34,ARM Server SoC,ASSESS
+10,Platforms,35,CoAP,ASSESS
+10,Platforms,36,DigitalOcean,ASSESS
+10,Platforms,37,Espruino,ASSESS
+10,Platforms,38,EventStore,ASSESS
+10,Platforms,39,Low-cost robotics,ASSESS
+10,Platforms,40,Mapbox,ASSESS
+10,Platforms,41,OpenID Connect,ASSESS
+10,Platforms,42,SPDY,ASSESS
+10,Platforms,43,Storm,ASSESS
+10,Platforms,44,TOTP Two-Factor Authentication,ASSESS
+10,Platforms,45,Web Components standard,ASSESS
+10,Platforms,46,Big enterprise solutions,HOLD
+10,Platforms,47,CMS as a platform,HOLD
+10,Platforms,48,Enterprise Data Warehouse,HOLD
+10,Platforms,49,OSGI,HOLD
+10,Tools,50,Ansible,ADOPT
+10,Tools,51,Dependency management for JavaScript,ADOPT
+10,Tools,52,CartoDB,TRIAL
+10,Tools,53,Chaos Monkey,TRIAL
+10,Tools,54,Docker,TRIAL
+10,Tools,55,Flyway,TRIAL
+10,Tools,56,Foreman,TRIAL
+10,Tools,57,GenyMotion,TRIAL
+10,Tools,58,Go CD,TRIAL
+10,Tools,59,Grunt.js,TRIAL
+10,Tools,60,Gulp,TRIAL
+10,Tools,61,Moco,TRIAL
+10,Tools,62,Packer,TRIAL
+10,Tools,63,Pact & Pacto,TRIAL
+10,Tools,64,Prototype On Paper,TRIAL
+10,Tools,65,Protractor for AngularJS,TRIAL
+10,Tools,66,SnapCI,TRIAL
+10,Tools,67,Snowplow Analytics & Piwik,TRIAL
+10,Tools,68,Visual regression testing tools,TRIAL
+10,Tools,69,Appium,ASSESS
+10,Tools,70,Consul,ASSESS
+10,Tools,71,Flume,ASSESS
+10,Tools,72,Hosted solutions for testing iOS,ASSESS
+10,Tools,73,leaflet.js,ASSESS
+10,Tools,74,Mountebank,ASSESS
+10,Tools,75,Papertrail,ASSESS
+10,Tools,76,Roslyn,ASSESS
+10,Tools,77,Spark,ASSESS
+10,Tools,78,Swagger,ASSESS
+10,Tools,79,Xamarin,ASSESS
+10,Tools,80,Ant,HOLD
+10,Tools,81,TFS,HOLD
+10,Languages,82,Dropwizard,ADOPT
+10,Languages,83,Go language,ADOPT
+10,Languages,84,Java 8,ADOPT
+10,Languages,85,Reactive Extensions across languages,ADOPT
+10,Languages,86,"Scala, the good parts",ADOPT
+10,Languages,87,AngularJS,TRIAL
+10,Languages,88,Core Async,TRIAL
+10,Languages,89,HAL,TRIAL
+10,Languages,90,Hive,TRIAL
+10,Languages,91,Nancy,TRIAL
+10,Languages,92,Pester,TRIAL
+10,Languages,93,Play Framework 2,TRIAL
+10,Languages,94,Q & Bluebird,TRIAL
+10,Languages,95,R as Compute Platform,TRIAL
+10,Languages,96,Elm,ASSESS
+10,Languages,97,Julia,ASSESS
+10,Languages,98,Om,ASSESS
+10,Languages,99,Pointer Events,ASSESS
+10,Languages,100,Python 3,ASSESS
+10,Languages,101,Rust,ASSESS
+10,Languages,102,Spray/akka-http,ASSESS
+10,Languages,103,Spring Boot,ASSESS
+10,Languages,104,TypeScript,ASSESS
+10,Languages,105,Wolfram Language,ASSESS
+10,Languages,106,Handwritten CSS,HOLD
+10,Languages,107,JSF,HOLD
+11,Techniques,1,Focus on mean time to recovery,ADOPT
+11,Techniques,2,Forward Secrecy,ADOPT
+11,Techniques,3,Structured logging,ADOPT
+11,Techniques,4,Canary builds,TRIAL
+11,Techniques,5,Datensparsamkeit,TRIAL
+11,Techniques,6,Front end instrumentation,TRIAL
+11,Techniques,7,Hipster batch,TRIAL
+11,Techniques,8,Humane registry,TRIAL
+11,Techniques,9,Inverse Conway Maneuver,TRIAL
+11,Techniques,10,Living CSS Style Guides,TRIAL
+11,Techniques,11,Local storage sync,TRIAL
+11,Techniques,12,NoPSD,TRIAL
+11,Techniques,13,Partition infrastructure along team bounds,TRIAL
+11,Techniques,14,REST without PUT,TRIAL
+11,Techniques,15,Static site generators,TRIAL
+11,Techniques,16,Tailored Service Template,TRIAL
+11,Techniques,17,Append-only data store,ASSESS
+11,Techniques,18,Blockchain beyond bitcoin,ASSESS
+11,Techniques,19,Enterprise Data Lake,ASSESS
+11,Techniques,20,Machine image pipelines,ASSESS
+11,Techniques,21,Pace-layered Application Strategy,ASSESS
+11,Techniques,22,Cloud lift and shift,HOLD
+11,Techniques,23,Long lived branches with Gitflow,HOLD
+11,Techniques,24,Microservice envy,HOLD
+11,Techniques,25,Programming in your CI/CD tool,HOLD
+11,Techniques,26,SAFe™,HOLD
+11,Techniques,27,Security sandwich,HOLD
+11,Techniques,28,Separate DevOps team,HOLD
+11,Techniques,29,Testing as a separate organization,HOLD
+11,Techniques,30,Velocity as productivity,HOLD
+11,Platforms,31,DigitalOcean,TRIAL
+11,Platforms,32,iBeacon,TRIAL
+11,Platforms,33,Apache Mesos,ASSESS
+11,Platforms,34,ARM Server SoC,ASSESS
+11,Platforms,35,CoAP,ASSESS
+11,Platforms,36,CoreOS,ASSESS
+11,Platforms,37,EventStore,ASSESS
+11,Platforms,38,Jackrabbit Oak,ASSESS
+11,Platforms,39,Linux security modules,ASSESS
+11,Platforms,40,Mapbox,ASSESS
+11,Platforms,41,MariaDB,ASSESS
+11,Platforms,42,Netflix OSS Full stack,ASSESS
+11,Platforms,43,OpenAM,ASSESS
+11,Platforms,44,OpenID Connect,ASSESS
+11,Platforms,45,SDN,ASSESS
+11,Platforms,46,Text it as a service / Rapidpro.io,ASSESS
+11,Platforms,47,TOTP Two-Factor Authentication,ASSESS
+11,Platforms,48,U2F,ASSESS
+11,Platforms,49,CMS as a platform,HOLD
+11,Platforms,50,OSGI,HOLD
+11,Tools,51,Flyway,ADOPT
+11,Tools,52,Go CD,ADOPT
+11,Tools,53,Appium,TRIAL
+11,Tools,54,Boot2docker,TRIAL
+11,Tools,55,Composer,TRIAL
+11,Tools,56,Cursive,TRIAL
+11,Tools,57,Docker,TRIAL
+11,Tools,58,Foreman,TRIAL
+11,Tools,59,GenyMotion,TRIAL
+11,Tools,60,Gitlab,TRIAL
+11,Tools,61,Grunt.js,TRIAL
+11,Tools,62,IndexedDB,TRIAL
+11,Tools,63,Packer,TRIAL
+11,Tools,64,Pact & Pacto,TRIAL
+11,Tools,65,Papertrail,TRIAL
+11,Tools,66,Postman,TRIAL
+11,Tools,67,SnapCI,TRIAL
+11,Tools,68,Snowplow Analytics & Piwik,TRIAL
+11,Tools,69,Swagger,TRIAL
+11,Tools,70,Xamarin,TRIAL
+11,Tools,71,Blackbox,ASSESS
+11,Tools,72,Consul,ASSESS
+11,Tools,73,Dc.js,ASSESS
+11,Tools,74,Gorilla REPL,ASSESS
+11,Tools,75,Gulp,ASSESS
+11,Tools,76,leaflet.js,ASSESS
+11,Tools,77,Mountebank,ASSESS
+11,Tools,78,Packetbeat,ASSESS
+11,Tools,79,Roslyn,ASSESS
+11,Tools,80,Spark,ASSESS
+11,Tools,81,Terraform,ASSESS
+11,Tools,82,Citrix for development,HOLD
+11,Languages,83,Go language,ADOPT
+11,Languages,84,Java 8,ADOPT
+11,Languages,85,AngularJS,TRIAL
+11,Languages,86,Core Async,TRIAL
+11,Languages,87,Dashing,TRIAL
+11,Languages,88,Django Rest,TRIAL
+11,Languages,89,HAL,TRIAL
+11,Languages,90,Ionic Framework,TRIAL
+11,Languages,91,Nashorn,TRIAL
+11,Languages,92,Om,TRIAL
+11,Languages,93,Q & Bluebird,TRIAL
+11,Languages,94,R as Compute Platform,TRIAL
+11,Languages,95,Retrofit,TRIAL
+11,Languages,96,Flight.js,ASSESS
+11,Languages,97,Haskell Hadoop library,ASSESS
+11,Languages,98,Lotus,ASSESS
+11,Languages,99,React.js,ASSESS
+11,Languages,100,Reagent,ASSESS
+11,Languages,101,Rust,ASSESS
+11,Languages,102,Spring Boot,ASSESS
+11,Languages,103,Swift,ASSESS
+11,Languages,104,JSF,HOLD
+12,Techniques,1,Consumer-driven contract testing,ADOPT
+12,Techniques,2,Focus on mean time to recovery,ADOPT
+12,Techniques,3,Generated infrastructure diagrams,ADOPT
+12,Techniques,4,Structured logging,ADOPT
+12,Techniques,5,Canary builds,TRIAL
+12,Techniques,6,Datensparsamkeit,TRIAL
+12,Techniques,7,Local storage sync,TRIAL
+12,Techniques,8,NoPSD,TRIAL
+12,Techniques,9,Offline first web applications,TRIAL
+12,Techniques,10,Products over projects,TRIAL
+12,Techniques,11,Threat Modeling,TRIAL
+12,Techniques,12,Append-only data store,ASSESS
+12,Techniques,13,Blockchain beyond bitcoin,ASSESS
+12,Techniques,14,Enterprise Data Lake,ASSESS
+12,Techniques,15,Flux,ASSESS
+12,Techniques,16,Git based CMS/Git for non-code,ASSESS
+12,Techniques,17,Phoenix Environments,ASSESS
+12,Techniques,18,Reactive Architectures,ASSESS
+12,Techniques,19,Long lived branches with Gitflow,HOLD
+12,Techniques,20,Microservice envy,HOLD
+12,Techniques,21,Programming in your CI/CD tool,HOLD
+12,Techniques,22,SAFe™,HOLD
+12,Techniques,23,Security sandwich,HOLD
+12,Techniques,24,Separate DevOps team,HOLD
+12,Platforms,25,Apache Spark,TRIAL
+12,Platforms,26,Cloudera Impala,TRIAL
+12,Platforms,27,DigitalOcean,TRIAL
+12,Platforms,28,TOTP Two-Factor Authentication,TRIAL
+12,Platforms,29,Apache Kylin,ASSESS
+12,Platforms,30,Apache Mesos,ASSESS
+12,Platforms,31,CoreCLR and CoreFX,ASSESS
+12,Platforms,32,CoreOS,ASSESS
+12,Platforms,33,Deis,ASSESS
+12,Platforms,34,H2O,ASSESS
+12,Platforms,35,Jackrabbit Oak,ASSESS
+12,Platforms,36,Linux security modules,ASSESS
+12,Platforms,37,MariaDB,ASSESS
+12,Platforms,38,Netflix OSS Full stack,ASSESS
+12,Platforms,39,OpenAM,ASSESS
+12,Platforms,40,SDN,ASSESS
+12,Platforms,41,Spark Photon/Spark Electron,ASSESS
+12,Platforms,42,Text it as a service / Rapidpro.io,ASSESS
+12,Platforms,43,Time series databases,ASSESS
+12,Platforms,44,U2F,ASSESS
+12,Platforms,45,Application Servers,HOLD
+12,Platforms,46,OSGi,HOLD
+12,Platforms,47,SPDY,HOLD
+12,Tools,48,Composer,ADOPT
+12,Tools,49,Go CD,ADOPT
+12,Tools,50,Mountebank,ADOPT
+12,Tools,51,Postman,ADOPT
+12,Tools,52,Boot2docker,TRIAL
+12,Tools,53,Brighter,TRIAL
+12,Tools,54,Consul,TRIAL
+12,Tools,55,Cursive,TRIAL
+12,Tools,56,GitLab,TRIAL
+12,Tools,57,Hamms,TRIAL
+12,Tools,58,IndexedDB,TRIAL
+12,Tools,59,Polly,TRIAL
+12,Tools,60,REST-assured,TRIAL
+12,Tools,61,Swagger,TRIAL
+12,Tools,62,Xamarin,TRIAL
+12,Tools,63,ZAP,TRIAL
+12,Tools,64,Apache Kafka,ASSESS
+12,Tools,65,Blackbox,ASSESS
+12,Tools,66,Bokeh/Vega,ASSESS
+12,Tools,67,Gor,ASSESS
+12,Tools,68,NaCl,ASSESS
+12,Tools,69,Origami,ASSESS
+12,Tools,70,Packetbeat,ASSESS
+12,Tools,71,pdfmake,ASSESS
+12,Tools,72,PlantUML,ASSESS
+12,Tools,73,Prometheus,ASSESS
+12,Tools,74,Quick,ASSESS
+12,Tools,75,Security Monkey,ASSESS
+12,Tools,76,Citrix for development,HOLD
+12,Languages,77,Nancy,ADOPT
+12,Languages,78,Dashing,TRIAL
+12,Languages,79,Django REST,TRIAL
+12,Languages,80,Ionic Framework,TRIAL
+12,Languages,81,Nashorn,TRIAL
+12,Languages,82,Om,TRIAL
+12,Languages,83,React.js,TRIAL
+12,Languages,84,Retrofit,TRIAL
+12,Languages,85,Spring Boot,TRIAL
+12,Languages,86,Ember.js,ASSESS
+12,Languages,87,Flight.js,ASSESS
+12,Languages,88,Haskell Hadoop library,ASSESS
+12,Languages,89,Lotus,ASSESS
+12,Languages,90,Reagent,ASSESS
+12,Languages,91,Swift,ASSESS
+12,Languages,92,JSF,HOLD
+13,Techniques,1,Consumer-driven contract testing,ADOPT
+13,Techniques,2,Decoupling deployment from release,ADOPT
+13,Techniques,3,Generated infrastructure diagrams,ADOPT
+13,Techniques,4,NoPSD,ADOPT
+13,Techniques,5,Products over projects,ADOPT
+13,Techniques,6,Threat Modeling,ADOPT
+13,Techniques,7,BEM,TRIAL
+13,Techniques,8,BFF - Backend for frontends,TRIAL
+13,Techniques,9,Docker for builds,TRIAL
+13,Techniques,10,Event Storming,TRIAL
+13,Techniques,11,Flux,TRIAL
+13,Techniques,12,Idempotency filter,TRIAL
+13,Techniques,13,iFrames for sandboxing,TRIAL
+13,Techniques,14,NPM for all the things,TRIAL
+13,Techniques,15,Offline first web applications,TRIAL
+13,Techniques,16,Phoenix Environments,TRIAL
+13,Techniques,17,QA in production,TRIAL
+13,Techniques,18,Accumulate-only data,ASSESS
+13,Techniques,19,Bug bounties,ASSESS
+13,Techniques,20,Data Lake,ASSESS
+13,Techniques,21,Hosted IDEs,ASSESS
+13,Techniques,22,Monitoring of invariants,ASSESS
+13,Techniques,23,Reactive Architectures,ASSESS
+13,Techniques,24,Gitflow,HOLD
+13,Techniques,25,High performance envy/web scale envy,HOLD
+13,Techniques,26,Microservice envy,HOLD
+13,Techniques,27,Pace-layered Application Strategy,HOLD
+13,Techniques,28,Programming in your CI/CD tool,HOLD
+13,Techniques,29,SAFe™,HOLD
+13,Techniques,30,Separate DevOps team,HOLD
+13,Platforms,31,TOTP Two-Factor Authentication,ADOPT
+13,Platforms,32,Apache Mesos,TRIAL
+13,Platforms,33,Apache Spark,TRIAL
+13,Platforms,34,AWS Lambda,TRIAL
+13,Platforms,35,Cloudera Impala,TRIAL
+13,Platforms,36,Fastly,TRIAL
+13,Platforms,37,H2O,TRIAL
+13,Platforms,38,HSTS,TRIAL
+13,Platforms,39,Apache Kylin,ASSESS
+13,Platforms,40,AWS ECS,ASSESS
+13,Platforms,41,Ceph,ASSESS
+13,Platforms,42,CoreCLR and CoreFX,ASSESS
+13,Platforms,43,Deis,ASSESS
+13,Platforms,44,Kubernetes,ASSESS
+13,Platforms,45,Linux security modules,ASSESS
+13,Platforms,46,Mesosphere DCOS,ASSESS
+13,Platforms,47,Microsoft Nano Server,ASSESS
+13,Platforms,48,Particle Photon/Particle Electron,ASSESS
+13,Platforms,49,Presto,ASSESS
+13,Platforms,50,Rancher,ASSESS
+13,Platforms,51,Time series databases,ASSESS
+13,Platforms,52,Application Servers,HOLD
+13,Platforms,53,Overambitious API gateways,HOLD
+13,Platforms,54,SPDY,HOLD
+13,Platforms,55,Superficial private cloud,HOLD
+13,Tools,56,Composer,ADOPT
+13,Tools,57,Mountebank,ADOPT
+13,Tools,58,Postman,ADOPT
+13,Tools,59,Browsersync,TRIAL
+13,Tools,60,Carthage,TRIAL
+13,Tools,61,Consul,TRIAL
+13,Tools,62,Docker Toolbox,TRIAL
+13,Tools,63,Gitrob,TRIAL
+13,Tools,64,GitUp,TRIAL
+13,Tools,65,Hamms,TRIAL
+13,Tools,66,IndexedDB,TRIAL
+13,Tools,67,Polly,TRIAL
+13,Tools,68,REST-assured,TRIAL
+13,Tools,69,Sensu,TRIAL
+13,Tools,70,SysDig,TRIAL
+13,Tools,71,ZAP,TRIAL
+13,Tools,72,Apache Kafka,ASSESS
+13,Tools,73,Concourse CI,ASSESS
+13,Tools,74,Espresso,ASSESS
+13,Tools,75,Gauge,ASSESS
+13,Tools,76,Gor,ASSESS
+13,Tools,77,ievms,ASSESS
+13,Tools,78,Let's Encrypt,ASSESS
+13,Tools,79,Pageify,ASSESS
+13,Tools,80,Prometheus,ASSESS
+13,Tools,81,Quick,ASSESS
+13,Tools,82,RAML,ASSESS
+13,Tools,83,Security Monkey,ASSESS
+13,Tools,84,Sleepy Puppy,ASSESS
+13,Tools,85,Visual Studio Code,ASSESS
+13,Tools,86,Citrix for development,HOLD
+13,Languages,87,ECMAScript 6,ADOPT
+13,Languages,88,Nancy,ADOPT
+13,Languages,89,Swift,ADOPT
+13,Languages,90,Enlive,TRIAL
+13,Languages,91,React.js,TRIAL
+13,Languages,92,SignalR,TRIAL
+13,Languages,93,Spring Boot,TRIAL
+13,Languages,94,Axon,ASSESS
+13,Languages,95,Ember.js,ASSESS
+13,Languages,96,Frege,ASSESS
+13,Languages,97,HyperResource,ASSESS
+13,Languages,98,Material UI,ASSESS
+13,Languages,99,OkHttp,ASSESS
+13,Languages,100,React Native,ASSESS
+13,Languages,101,TLA+,ASSESS
+13,Languages,102,Traveling Ruby,ASSESS
+14,Techniques,1,Decoupling deployment from release,ADOPT
+14,Techniques,2,Products over projects,ADOPT
+14,Techniques,3,Threat Modeling,ADOPT
+14,Techniques,4,BFF - Backend for frontends,TRIAL
+14,Techniques,5,Bug bounties,TRIAL
+14,Techniques,6,Data Lake,TRIAL
+14,Techniques,7,Event Storming,TRIAL
+14,Techniques,8,Flux,TRIAL
+14,Techniques,9,Idempotency filter,TRIAL
+14,Techniques,10,iFrames for sandboxing,TRIAL
+14,Techniques,11,NPM for all the things,TRIAL
+14,Techniques,12,Phoenix Environments,TRIAL
+14,Techniques,13,QA in production,TRIAL
+14,Techniques,14,Reactive Architectures,TRIAL
+14,Techniques,15,Content Security Policies,ASSESS
+14,Techniques,16,Hosted IDEs,ASSESS
+14,Techniques,17,Hosting PII data in the EU,ASSESS
+14,Techniques,18,Monitoring of invariants,ASSESS
+14,Techniques,19,OWASP ASVS,ASSESS
+14,Techniques,20,Serverless architecture,ASSESS
+14,Techniques,21,Unikernels,ASSESS
+14,Techniques,22,VR beyond gaming,ASSESS
+14,Techniques,23,A single CI instance for all teams,HOLD
+14,Techniques,24,Big Data envy,HOLD
+14,Techniques,25,Gitflow,HOLD
+14,Techniques,26,High performance envy/web scale envy,HOLD
+14,Techniques,27,SAFe™,HOLD
+14,Platforms,28,Docker,ADOPT
+14,Platforms,29,TOTP Two-Factor Authentication,ADOPT
+14,Platforms,30,Apache Mesos,TRIAL
+14,Platforms,31,AWS Lambda,TRIAL
+14,Platforms,32,H2O,TRIAL
+14,Platforms,33,HSTS,TRIAL
+14,Platforms,34,Kubernetes,TRIAL
+14,Platforms,35,Linux security modules,TRIAL
+14,Platforms,36,Pivotal Cloud Foundry,TRIAL
+14,Platforms,37,Rancher,TRIAL
+14,Platforms,38,Amazon API Gateway,ASSESS
+14,Platforms,39,AWS ECS,ASSESS
+14,Platforms,40,Bluetooth Mesh,ASSESS
+14,Platforms,41,Ceph,ASSESS
+14,Platforms,42,Deflect,ASSESS
+14,Platforms,43,ESP8266,ASSESS
+14,Platforms,44,MemSQL,ASSESS
+14,Platforms,45,Mesosphere DCOS,ASSESS
+14,Platforms,46,Nomad,ASSESS
+14,Platforms,47,Presto,ASSESS
+14,Platforms,48,Realm,ASSESS
+14,Platforms,49,Sandstorm,ASSESS
+14,Platforms,50,TensorFlow,ASSESS
+14,Platforms,51,Application Servers,HOLD
+14,Platforms,52,Overambitious API gateways,HOLD
+14,Platforms,53,Superficial private cloud,HOLD
+14,Tools,54,Consul,ADOPT
+14,Tools,55,Apache Kafka,TRIAL
+14,Tools,56,Browsersync,TRIAL
+14,Tools,57,Carthage,TRIAL
+14,Tools,58,Gauge,TRIAL
+14,Tools,59,GitUp,TRIAL
+14,Tools,60,Let's Encrypt,TRIAL
+14,Tools,61,Load Impact,TRIAL
+14,Tools,62,OWASP Dependency-Check,TRIAL
+14,Tools,63,Serverspec,TRIAL
+14,Tools,64,SysDig,TRIAL
+14,Tools,65,Webpack,TRIAL
+14,Tools,66,Zipkin,TRIAL
+14,Tools,67,Apache Flink,ASSESS
+14,Tools,68,Concourse CI,ASSESS
+14,Tools,69,Gitrob,ASSESS
+14,Tools,70,Grasp,ASSESS
+14,Tools,71,HashiCorp Vault,ASSESS
+14,Tools,72,ievms,ASSESS
+14,Tools,73,Jepsen,ASSESS
+14,Tools,74,LambdaCD,ASSESS
+14,Tools,75,Pinpoint,ASSESS
+14,Tools,76,Pitest,ASSESS
+14,Tools,77,Prometheus,ASSESS
+14,Tools,78,RAML,ASSESS
+14,Tools,79,Repsheet,ASSESS
+14,Tools,80,Sleepy Puppy,ASSESS
+14,Tools,81,Jenkins as a deployment pipeline,HOLD
+14,Languages,82,ES6,ADOPT
+14,Languages,83,React.js,ADOPT
+14,Languages,84,Spring Boot,ADOPT
+14,Languages,85,Swift,ADOPT
+14,Languages,86,Butterknife,TRIAL
+14,Languages,87,Dagger,TRIAL
+14,Languages,88,Dapper,TRIAL
+14,Languages,89,Ember.js,TRIAL
+14,Languages,90,Enlive,TRIAL
+14,Languages,91,Fetch,TRIAL
+14,Languages,92,React Native,TRIAL
+14,Languages,93,Redux,TRIAL
+14,Languages,94,Robolectric,TRIAL
+14,Languages,95,SignalR,TRIAL
+14,Languages,96,Alamofire,ASSESS
+14,Languages,97,AngularJS,ASSESS
+14,Languages,98,Aurelia,ASSESS
+14,Languages,99,Cylon.js,ASSESS
+14,Languages,100,Elixir,ASSESS
+14,Languages,101,Elm,ASSESS
+14,Languages,102,GraphQL,ASSESS
+14,Languages,103,Immutable.js,ASSESS
+14,Languages,104,OkHttp,ASSESS
+14,Languages,105,Recharts,ASSESS
+14,Languages,106,JSPatch,HOLD
+15,Techniques,1,Consumer-driven contract testing,ADOPT
+15,Techniques,2,Pipelines as code,ADOPT
+15,Techniques,3,Threat Modeling,ADOPT
+15,Techniques,4,APIs as a product,TRIAL
+15,Techniques,5,Bug bounties,TRIAL
+15,Techniques,6,Data Lake,TRIAL
+15,Techniques,7,Hosting PII data in the EU,TRIAL
+15,Techniques,8,Lightweight Architecture Decision Records,TRIAL
+15,Techniques,9,Reactive Architectures,TRIAL
+15,Techniques,10,Serverless architecture,TRIAL
+15,Techniques,11,Client-directed query,ASSESS
+15,Techniques,12,Container security scanning,ASSESS
+15,Techniques,13,Content Security Policies,ASSESS
+15,Techniques,14,Differential privacy,ASSESS
+15,Techniques,15,Micro frontends,ASSESS
+15,Techniques,16,OWASP ASVS,ASSESS
+15,Techniques,17,Unikernels,ASSESS
+15,Techniques,18,VR beyond gaming,ASSESS
+15,Techniques,19,A single CI instance for all teams,HOLD
+15,Techniques,20,Anemic REST,HOLD
+15,Techniques,21,Big Data envy,HOLD
+15,Techniques,22,Cloud lift and shift,HOLD
+15,Platforms,23,Docker,ADOPT
+15,Platforms,24,HSTS,ADOPT
+15,Platforms,25,Linux security modules,ADOPT
+15,Platforms,26,Apache Mesos,TRIAL
+15,Platforms,27,Auth0,TRIAL
+15,Platforms,28,AWS Lambda,TRIAL
+15,Platforms,29,Kubernetes,TRIAL
+15,Platforms,30,Pivotal Cloud Foundry,TRIAL
+15,Platforms,31,Rancher,TRIAL
+15,Platforms,32,Realm,TRIAL
+15,Platforms,33,Unity beyond gaming,TRIAL
+15,Platforms,34,.NET Core,ASSESS
+15,Platforms,35,Amazon API Gateway,ASSESS
+15,Platforms,36,Apache Flink,ASSESS
+15,Platforms,37,AWS Application Load Balancer,ASSESS
+15,Platforms,38,Cassandra carefully,ASSESS
+15,Platforms,39,Electron,ASSESS
+15,Platforms,40,Ethereum,ASSESS
+15,Platforms,41,HoloLens,ASSESS
+15,Platforms,42,IndiaStack,ASSESS
+15,Platforms,43,Nomad,ASSESS
+15,Platforms,44,Nuance Mix,ASSESS
+15,Platforms,45,OpenVR,ASSESS
+15,Platforms,46,Tarantool,ASSESS
+15,Platforms,47,wit.ai,ASSESS
+15,Platforms,48,CMS as a platform,HOLD
+15,Platforms,49,Overambitious API gateways,HOLD
+15,Platforms,50,Superficial private cloud,HOLD
+15,Tools,51,Babel,ADOPT
+15,Tools,52,Consul,ADOPT
+15,Tools,53,Grafana,ADOPT
+15,Tools,54,Packer,ADOPT
+15,Tools,55,Apache Kafka,TRIAL
+15,Tools,56,Espresso,TRIAL
+15,Tools,57,fastlane,TRIAL
+15,Tools,58,Galen,TRIAL
+15,Tools,59,HashiCorp Vault,TRIAL
+15,Tools,60,JSONassert,TRIAL
+15,Tools,61,Let's Encrypt,TRIAL
+15,Tools,62,Load Impact,TRIAL
+15,Tools,63,OWASP Dependency-Check,TRIAL
+15,Tools,64,Pa11y,TRIAL
+15,Tools,65,Serverspec,TRIAL
+15,Tools,66,Talisman,TRIAL
+15,Tools,67,Terraform,TRIAL
+15,Tools,68,tmate,TRIAL
+15,Tools,69,Webpack,TRIAL
+15,Tools,70,Zipkin,TRIAL
+15,Tools,71,Android-x86,ASSESS
+15,Tools,72,axios,ASSESS
+15,Tools,73,Bottled Water,ASSESS
+15,Tools,74,Clojure.spec,ASSESS
+15,Tools,75,FBSnapshotTestcase,ASSESS
+15,Tools,76,Grasp,ASSESS
+15,Tools,77,LambdaCD,ASSESS
+15,Tools,78,Pinpoint,ASSESS
+15,Tools,79,Pitest,ASSESS
+15,Tools,80,Repsheet,ASSESS
+15,Tools,81,Scikit-learn,ASSESS
+15,Tools,82,Jenkins as a deployment pipeline,HOLD
+15,Languages,83,Ember.js,ADOPT
+15,Languages,84,React.js,ADOPT
+15,Languages,85,Redux,ADOPT
+15,Languages,86,Spring Boot,ADOPT
+15,Languages,88,Dagger,TRIAL
+15,Languages,89,Dapper,TRIAL
+15,Languages,90,Elixir,TRIAL
+15,Languages,91,Enzyme,TRIAL
+15,Languages,92,Immutable.js,TRIAL
+15,Languages,93,Phoenix,TRIAL
+15,Languages,94,Quick and Nimble,TRIAL
+15,Languages,95,React Native,TRIAL
+15,Languages,96,Robolectric,TRIAL
+15,Languages,97,Aurelia,ASSESS
+15,Languages,98,ECMAScript 2017,ASSESS
+15,Languages,99,Elm,ASSESS
+15,Languages,100,GraphQL,ASSESS
+15,Languages,101,JuMP,ASSESS
+15,Languages,102,Physical Web,ASSESS
+15,Languages,103,Rapidoid,ASSESS
+15,Languages,104,Recharts,ASSESS
+15,Languages,105,ReSwift,ASSESS
+15,Languages,106,Three.js,ASSESS
+15,Languages,107,Vue.js,ASSESS
+15,Languages,108,WebRTC,ASSESS
+15,Languages,109,AngularJS,HOLD
+15,Languages,110,JSPatch,HOLD
+16,Techniques,1,Pipelines as code,ADOPT
+16,Techniques,2,APIs as a product,TRIAL
+16,Techniques,3,Decoupling secret management from source code,TRIAL
+16,Techniques,4,Hosting PII data in the EU,TRIAL
+16,Techniques,5,Legacy in a box,TRIAL
+16,Techniques,6,Lightweight Architecture Decision Records,TRIAL
+16,Techniques,7,Progressive Web Applications,TRIAL
+16,Techniques,8,Prototyping with InVision and Sketch,TRIAL
+16,Techniques,9,Serverless architecture,TRIAL
+16,Techniques,10,Client-directed query,ASSESS
+16,Techniques,11,Container security scanning,ASSESS
+16,Techniques,12,Conversationally aware APIs,ASSESS
+16,Techniques,13,Differential privacy,ASSESS
+16,Techniques,14,Micro frontends,ASSESS
+16,Techniques,15,Platform engineering product teams,ASSESS
+16,Techniques,16,Social code analysis,ASSESS
+16,Techniques,17,VR beyond gaming,ASSESS
+16,Techniques,18,A single CI instance for all teams,HOLD
+16,Techniques,19,Anemic REST,HOLD
+16,Techniques,20,Big Data envy,HOLD
+16,Techniques,21,CI theatre,HOLD
+16,Techniques,22,Enterprise-wide integration test environments,HOLD
+16,Techniques,23,Spec-based codegen,HOLD
+16,Platforms,24,HSTS,ADOPT
+16,Platforms,25,Linux Security Modules,ADOPT
+16,Platforms,26,Apache Mesos,TRIAL
+16,Platforms,27,Auth0,TRIAL
+16,Platforms,28,AWS Device Farm,TRIAL
+16,Platforms,29,AWS Lambda,TRIAL
+16,Platforms,30,OpenTracing,TRIAL
+16,Platforms,31,Unity beyond gaming,TRIAL
+16,Platforms,32,.NET Core,ASSESS
+16,Platforms,33,Amazon API Gateway,ASSESS
+16,Platforms,34,api.ai,ASSESS
+16,Platforms,35,Cassandra carefully,ASSESS
+16,Platforms,36,Cloud-based image comprehension,ASSESS
+16,Platforms,37,DataStax Enterprise Graph,ASSESS
+16,Platforms,38,Electron,ASSESS
+16,Platforms,39,Ethereum,ASSESS
+16,Platforms,40,Hyperledger,ASSESS
+16,Platforms,41,IndiaStack,ASSESS
+16,Platforms,42,Kafka Streams,ASSESS
+16,Platforms,43,Keycloak,ASSESS
+16,Platforms,44,Mesosphere DCOS,ASSESS
+16,Platforms,45,Mosquitto,ASSESS
+16,Platforms,46,Nuance Mix,ASSESS
+16,Platforms,47,OpenVR,ASSESS
+16,Platforms,48,PlatformIO,ASSESS
+16,Platforms,49,Tango,ASSESS
+16,Platforms,50,Voice platforms,ASSESS
+16,Platforms,51,WebVR,ASSESS
+16,Platforms,52,wit.ai,ASSESS
+16,Platforms,53,CMS as a platform,HOLD
+16,Platforms,54,Overambitious API gateways,HOLD
+16,Tools,55,fastlane,ADOPT
+16,Tools,56,Grafana,ADOPT
+16,Tools,57,Airflow,TRIAL
+16,Tools,58,Cake and Fake,TRIAL
+16,Tools,59,Galen,TRIAL
+16,Tools,60,HashiCorp Vault,TRIAL
+16,Tools,61,Pa11y,TRIAL
+16,Tools,62,Scikit-learn,TRIAL
+16,Tools,63,Serverless Framework,TRIAL
+16,Tools,64,Talisman,TRIAL
+16,Tools,65,Terraform,TRIAL
+16,Tools,66,Amazon Rekognition,ASSESS
+16,Tools,67,Android-x86,ASSESS
+16,Tools,68,Bottled Water,ASSESS
+16,Tools,69,Claudia,ASSESS
+16,Tools,70,Clojure.spec,ASSESS
+16,Tools,71,InSpec,ASSESS
+16,Tools,72,Molecule,ASSESS
+16,Tools,73,Spacemacs,ASSESS
+16,Tools,74,spaCy,ASSESS
+16,Tools,75,Spinnaker,ASSESS
+16,Tools,76,Testinfra,ASSESS
+16,Tools,77,Yarn,ASSESS
+16,Languages,78,Ember.js,ADOPT
+16,Languages,79,Python 3,ADOPT
+16,Languages,80,ReactiveX,ADOPT
+16,Languages,81,Redux,ADOPT
+16,Languages,82,Avro,TRIAL
+16,Languages,83,Elixir,TRIAL
+16,Languages,84,Enzyme,TRIAL
+16,Languages,85,Hangfire,TRIAL
+16,Languages,86,Nightwatch,TRIAL
+16,Languages,87,Phoenix,TRIAL
+16,Languages,88,Quick and Nimble,TRIAL
+16,Languages,89,Vue.js,TRIAL
+16,Languages,90,Angular 2,ASSESS
+16,Languages,91,Caffe,ASSESS
+16,Languages,92,DeepLearning.scala,ASSESS
+16,Languages,93,ECMAScript 2017,ASSESS
+16,Languages,94,Instana,ASSESS
+16,Languages,95,JuMP,ASSESS
+16,Languages,96,Keras,ASSESS
+16,Languages,97,Knet.jl,ASSESS
+16,Languages,98,Kotlin,ASSESS
+16,Languages,99,Physical Web,ASSESS
+16,Languages,100,PostCSS,ASSESS
+16,Languages,101,Spring Cloud,ASSESS
+16,Languages,102,Three.js,ASSESS
+16,Languages,103,WebRTC,ASSESS
+16,Languages,104,AngularJS,HOLD
+17,Techniques,1,Lightweight Architecture Decision Records,ADOPT
+17,Techniques,2,Applying product management to internal platforms,TRIAL
+17,Techniques,3,Architectural fitness function,TRIAL
+17,Techniques,4,Autonomous bubble pattern,TRIAL
+17,Techniques,5,Chaos Engineering,TRIAL
+17,Techniques,6,Decoupling secret management from source code,TRIAL
+17,Techniques,7,DesignOps,TRIAL
+17,Techniques,8,Legacy in a box,TRIAL
+17,Techniques,9,Micro frontends,TRIAL
+17,Techniques,10,Pipelines for infrastructure as code,TRIAL
+17,Techniques,11,Serverless architecture,TRIAL
+17,Techniques,12,TDDing containers,TRIAL
+17,Techniques,13,Algorithmic IT operations,ASSESS
+17,Techniques,14,Ethereum for decentralized applications,ASSESS
+17,Techniques,15,Event streaming as the source of truth,ASSESS
+17,Techniques,16,Platform engineering product teams,ASSESS
+17,Techniques,17,Polycloud,ASSESS
+17,Techniques,18,Service mesh,ASSESS
+17,Techniques,19,Sidecars for endpoint security,ASSESS
+17,Techniques,20,The three Rs of security,ASSESS
+17,Techniques,21,A single CI instance for all teams,HOLD
+17,Techniques,22,CI theatre,HOLD
+17,Techniques,23,Enterprise-wide integration test environments,HOLD
+17,Techniques,24,Recreating ESB antipatterns with Kafka,HOLD
+17,Techniques,25,Spec-based codegen,HOLD
+17,Platforms,26,Kubernetes,ADOPT
+17,Platforms,27,.NET Core,TRIAL
+17,Platforms,28,AWS Device Farm,TRIAL
+17,Platforms,29,Flood IO,TRIAL
+17,Platforms,30,Google Cloud Platform,TRIAL
+17,Platforms,31,Keycloak,TRIAL
+17,Platforms,32,OpenTracing,TRIAL
+17,Platforms,33,Unity beyond gaming,TRIAL
+17,Platforms,34,WeChat,TRIAL
+17,Platforms,35,Azure Service Fabric,ASSESS
+17,Platforms,36,Cloud Spanner,ASSESS
+17,Platforms,37,Corda,ASSESS
+17,Platforms,38,Cosmos DB,ASSESS
+17,Platforms,39,DialogFlow,ASSESS
+17,Platforms,40,GKE,ASSESS
+17,Platforms,41,Hyperledger,ASSESS
+17,Platforms,42,Kafka Streams,ASSESS
+17,Platforms,43,Language Server Protocol,ASSESS
+17,Platforms,44,LoRaWAN,ASSESS
+17,Platforms,45,MapD,ASSESS
+17,Platforms,46,Mosquitto,ASSESS
+17,Platforms,47,Netlify,ASSESS
+17,Platforms,48,PlatformIO,ASSESS
+17,Platforms,49,TensorFlow Serving,ASSESS
+17,Platforms,50,Voice platforms,ASSESS
+17,Platforms,51,Windows Containers,ASSESS
+17,Platforms,52,Overambitious API gateways,HOLD
+17,Tools,53,fastlane,ADOPT
+17,Tools,54,Buildkite,TRIAL
+17,Tools,55,CircleCI,TRIAL
+17,Tools,56,gopass,TRIAL
+17,Tools,57,Headless Chrome for front-end test,TRIAL
+17,Tools,58,jsoniter,TRIAL
+17,Tools,59,Prometheus,TRIAL
+17,Tools,60,Scikit-learn,TRIAL
+17,Tools,61,Serverless Framework,TRIAL
+17,Tools,62,Apex,ASSESS
+17,Tools,63,assertj-swagger,ASSESS
+17,Tools,64,Cypress,ASSESS
+17,Tools,65,Flow,ASSESS
+17,Tools,66,InSpec,ASSESS
+17,Tools,67,Jupyter,ASSESS
+17,Tools,68,Kong API Gateway,ASSESS
+17,Tools,69,kops,ASSESS
+17,Tools,70,Lighthouse,ASSESS
+17,Tools,71,Rendertron,ASSESS
+17,Tools,72,Sonobuoy,ASSESS
+17,Tools,73,spaCy,ASSESS
+17,Tools,74,Spinnaker,ASSESS
+17,Tools,75,Spring Cloud Contract,ASSESS
+17,Tools,76,Yarn,ASSESS
+17,Languages,77,Python 3,ADOPT
+17,Languages,78,AngularJS,TRIAL
+17,Languages,79,AssertJ,TRIAL
+17,Languages,80,Avro,TRIAL
+17,Languages,81,CSS Grid Layout,TRIAL
+17,Languages,82,CSS Modules,TRIAL
+17,Languages,83,Jest,TRIAL
+17,Languages,84,Kotlin,TRIAL
+17,Languages,85,Spring Cloud,TRIAL
+17,Languages,86,Android Architecture Components,ASSESS
+17,Languages,87,ARKit/ARCore,ASSESS
+17,Languages,88,Atlas and BeeHive,ASSESS
+17,Languages,89,Caffe,ASSESS
+17,Languages,90,Clara rules,ASSESS
+17,Languages,91,CSS-in-JS,ASSESS
+17,Languages,92,Digdag,ASSESS
+17,Languages,93,Druid,ASSESS
+17,Languages,94,ECharts,ASSESS
+17,Languages,95,Gobot,ASSESS
+17,Languages,96,Instana,ASSESS
+17,Languages,97,Keras,ASSESS
+17,Languages,98,LeakCanary,ASSESS
+17,Languages,99,PostCSS,ASSESS
+17,Languages,100,PyTorch,ASSESS
+17,Languages,101,single-spa,ASSESS
+17,Languages,102,Solidity,ASSESS
+17,Languages,103,TensorFlow Mobile,ASSESS
+17,Languages,104,Truffle,ASSESS
+17,Languages,105,Weex,ASSESS
+18,Techniques,1,Lightweight Architecture Decision Records,ADOPT
+18,Techniques,2,Applying product management to internal platforms,TRIAL
+18,Techniques,3,Architectural fitness function,TRIAL
+18,Techniques,4,Autonomous bubble pattern,TRIAL
+18,Techniques,5,Chaos Engineering,TRIAL
+18,Techniques,6,Domain-scoped events,TRIAL
+18,Techniques,7,Hosted identity management as a service,TRIAL
+18,Techniques,8,Micro frontends,TRIAL
+18,Techniques,9,Pipelines for infrastructure as code,TRIAL
+18,Techniques,10,Polycloud,TRIAL
+18,Techniques,11,BeyondCorp,ASSESS
+18,Techniques,12,Embedded mobile mocks,ASSESS
+18,Techniques,13,Ethereum for decentralized applications,ASSESS
+18,Techniques,14,Event streaming as the source of truth,ASSESS
+18,Techniques,15,GraphQL for server side resource aggregation,ASSESS
+18,Techniques,16,Infrastructure configuration scanner,ASSESS
+18,Techniques,17,Jupyter for automated testing,ASSESS
+18,Techniques,18,Log level per request,ASSESS
+18,Techniques,19,Security Chaos Engineering,ASSESS
+18,Techniques,20,Service mesh,ASSESS
+18,Techniques,21,Sidecars for endpoint security,ASSESS
+18,Techniques,22,The three Rs of security,ASSESS
+18,Techniques,23,Generic cloud usage,HOLD
+18,Techniques,24,Recreating ESB antipatterns with Kafka,HOLD
+18,Platforms,25,.NET Core,ADOPT
+18,Platforms,26,Kubernetes,ADOPT
+18,Platforms,27,Azure,TRIAL
+18,Platforms,28,Contentful,TRIAL
+18,Platforms,29,EMQ,TRIAL
+18,Platforms,30,Flood IO,TRIAL
+18,Platforms,31,GKE,TRIAL
+18,Platforms,32,Google Cloud Platform,TRIAL
+18,Platforms,33,Keycloak,TRIAL
+18,Platforms,34,WeChat,TRIAL
+18,Platforms,35,AWS Fargate,ASSESS
+18,Platforms,36,Azure Service Fabric,ASSESS
+18,Platforms,37,Azure Stack,ASSESS
+18,Platforms,38,Cloud Spanner,ASSESS
+18,Platforms,39,Corda,ASSESS
+18,Platforms,40,Cosmos DB,ASSESS
+18,Platforms,41,Godot,ASSESS
+18,Platforms,42,Interledger,ASSESS
+18,Platforms,43,Language Server Protocol,ASSESS
+18,Platforms,44,LoRaWAN,ASSESS
+18,Platforms,45,Mongoose OS,ASSESS
+18,Platforms,46,Netlify,ASSESS
+18,Platforms,47,TensorFlow Serving,ASSESS
+18,Platforms,48,TICK Stack,ASSESS
+18,Platforms,49,Web Bluetooth,ASSESS
+18,Platforms,50,Windows Containers,ASSESS
+18,Platforms,51,Overambitious API gateways,HOLD
+18,Tools,52,Appium Test Distribution,TRIAL
+18,Tools,53,BackstopJS,TRIAL
+18,Tools,54,Buildkite,TRIAL
+18,Tools,55,CircleCI,TRIAL
+18,Tools,56,CVXPY,TRIAL
+18,Tools,57,gopass,TRIAL
+18,Tools,58,Headless Chrome for front-end test,TRIAL
+18,Tools,59,Helm,TRIAL
+18,Tools,60,Jupyter,TRIAL
+18,Tools,61,Kong API Gateway,TRIAL
+18,Tools,62,kops,TRIAL
+18,Tools,63,Patroni,TRIAL
+18,Tools,64,WireMock,TRIAL
+18,Tools,65,Yarn,TRIAL
+18,Tools,66,Apex,ASSESS
+18,Tools,67,ArchUnit,ASSESS
+18,Tools,68,cfn_nag,ASSESS
+18,Tools,69,Conduit,ASSESS
+18,Tools,70,Cypress,ASSESS
+18,Tools,71,Dependabot,ASSESS
+18,Tools,72,Flow,ASSESS
+18,Tools,73,Headless Firefox,ASSESS
+18,Tools,74,nsp,ASSESS
+18,Tools,75,Parcel,ASSESS
+18,Tools,76,Scout2,ASSESS
+18,Tools,77,Sentry,ASSESS
+18,Tools,78,Sonobuoy,ASSESS
+18,Tools,79,Swashbuckle for .NET Core,ASSESS
+18,Languages,80,AssertJ,ADOPT
+18,Languages,81,Enzyme,ADOPT
+18,Languages,82,Kotlin,ADOPT
+18,Languages,83,Apollo,TRIAL
+18,Languages,84,CSS Grid Layout,TRIAL
+18,Languages,85,CSS Modules,TRIAL
+18,Languages,86,Hyperledger Composer,TRIAL
+18,Languages,87,OpenZeppelin,TRIAL
+18,Languages,88,Android Architecture Components,ASSESS
+18,Languages,89,Atlas and BeeHive,ASSESS
+18,Languages,90,Clara rules,ASSESS
+18,Languages,91,Flutter,ASSESS
+18,Languages,92,Gobot,ASSESS
+18,Languages,93,Hyperapp,ASSESS
+18,Languages,94,PyTorch,ASSESS
+18,Languages,95,Rasa,ASSESS
+18,Languages,96,Reactor,ASSESS
+18,Languages,97,RIBs,ASSESS
+18,Languages,98,Solidity,ASSESS
+18,Languages,99,SwiftNIO,ASSESS
+18,Languages,100,TensorFlow Eager Execution,ASSESS
+18,Languages,101,TensorFlow Lite,ASSESS
+18,Languages,102,troposphere,ASSESS
+18,Languages,103,Truffle,ASSESS
+18,Languages,104,WebAssembly,ASSESS
+19,Techniques,1,Event Storming,ADOPT
+19,Techniques,2,1% canary,TRIAL
+19,Techniques,3,Bounded Buy,TRIAL
+19,Techniques,4,Crypto shredding,TRIAL
+19,Techniques,5,Four key metrics,TRIAL
+19,Techniques,6,Multi-account cloud setup,TRIAL
+19,Techniques,7,Observability as code,TRIAL
+19,Techniques,8,Risk-commensurate vendor strategy,TRIAL
+19,Techniques,9,Run cost as architecture fitness function,TRIAL
+19,Techniques,10,Secrets as a service,TRIAL
+19,Techniques,11,Security Chaos Engineering,TRIAL
+19,Techniques,12,Versioning data for reproducible analytics,TRIAL
+19,Techniques,13,Chaos Katas,ASSESS
+19,Techniques,14,Distroless Docker images,ASSESS
+19,Techniques,15,Incremental delivery with COTS,ASSESS
+19,Techniques,16,Infrastructure configuration scanner,ASSESS
+19,Techniques,17,Pre-commit downstream build checks,ASSESS
+19,Techniques,18,Service mesh,ASSESS
+19,Techniques,19,”Handcranking” of Hadoop clusters using config management tools,HOLD
+19,Techniques,20,Generic cloud usage,HOLD
+19,Techniques,21,Layered microservices architecture,HOLD
+19,Techniques,22,Master data management,HOLD
+19,Techniques,23,Microservice envy,HOLD
+19,Techniques,24,Request-response events in user-facing workflows,HOLD
+19,Techniques,25,RPA,HOLD
+19,Platforms,26,Apache Atlas,TRIAL
+19,Platforms,27,AWS,TRIAL
+19,Platforms,28,Azure,TRIAL
+19,Platforms,29,Contentful,TRIAL
+19,Platforms,30,Google Cloud Platform,TRIAL
+19,Platforms,31,Shared VPC,TRIAL
+19,Platforms,32,TICK Stack,TRIAL
+19,Platforms,33,Azure DevOps,ASSESS
+19,Platforms,34,CockroachDB,ASSESS
+19,Platforms,35,Debezium,ASSESS
+19,Platforms,36,Glitch,ASSESS
+19,Platforms,37,Google Cloud Dataflow,ASSESS
+19,Platforms,38,gVisor,ASSESS
+19,Platforms,39,IPFS,ASSESS
+19,Platforms,40,Istio,ASSESS
+19,Platforms,41,Knative,ASSESS
+19,Platforms,42,Pulumi,ASSESS
+19,Platforms,43,Quorum,ASSESS
+19,Platforms,44,Resin.io,ASSESS
+19,Platforms,45,Rook,ASSESS
+19,Platforms,46,SPIFFE,ASSESS
+19,Platforms,47,Data-hungry packages,HOLD
+19,Platforms,48,Low-code platforms,HOLD
+19,Tools,49,acs-engine,TRIAL
+19,Tools,50,Archery,TRIAL
+19,Tools,51,ArchUnit,TRIAL
+19,Tools,52,Cypress,TRIAL
+19,Tools,53,git-secrets,TRIAL
+19,Tools,54,Headless Firefox,TRIAL
+19,Tools,55,LocalStack,TRIAL
+19,Tools,56,Mermaid,TRIAL
+19,Tools,57,Prettier,TRIAL
+19,Tools,58,Rider,TRIAL
+19,Tools,59,Snyk,TRIAL
+19,Tools,60,UI dev environments,TRIAL
+19,Tools,61,Visual Studio Code,TRIAL
+19,Tools,62,VS Live Share,TRIAL
+19,Tools,63,Bitrise,ASSESS
+19,Tools,64,Codefresh,ASSESS
+19,Tools,65,Grafeas,ASSESS
+19,Tools,66,Heptio Ark,ASSESS
+19,Tools,67,Jaeger,ASSESS
+19,Tools,68,kube-bench,ASSESS
+19,Tools,69,Ocelot,ASSESS
+19,Tools,70,Optimal Workshop,ASSESS
+19,Tools,71,Stanford CoreNLP,ASSESS
+19,Tools,72,Terragrunt,ASSESS
+19,Tools,73,TestCafe,ASSESS
+19,Tools,74,Traefik,ASSESS
+19,Tools,75,Wallaby.js,ASSESS
+19,Languages,76,Jepsen,TRIAL
+19,Languages,77,MMKV,TRIAL
+19,Languages,78,MockK,TRIAL
+19,Languages,79,TypeScript,TRIAL
+19,Languages,80,Apache Beam,ASSESS
+19,Languages,81,Camunda,ASSESS
+19,Languages,82,Flutter,ASSESS
+19,Languages,83,Ktor,ASSESS
+19,Languages,84,Nameko,ASSESS
+19,Languages,85,Polly.js,ASSESS
+19,Languages,86,PredictionIO,ASSESS
+19,Languages,87,Puppeteer,ASSESS
+19,Languages,88,Q#,ASSESS
+19,Languages,89,SAFE stack,ASSESS
+19,Languages,90,Spek,ASSESS
+19,Languages,91,troposphere,ASSESS
+19,Languages,92,WebAssembly,ASSESS
+19,Languages,93,WebFlux,ASSESS
+20,Techniques,1,Four key metrics,ADOPT
+20,Techniques,2,Micro frontends,ADOPT
+20,Techniques,3,Opinionated and automated code formatting,ADOPT
+20,Techniques,4,Polyglot programming,ADOPT
+20,Techniques,5,Secrets as a service,ADOPT
+20,Techniques,6,Chaos Engineering,TRIAL
+20,Techniques,7,Container security scanning,TRIAL
+20,Techniques,8,Continuous delivery for machine learning (CD4ML) models,TRIAL
+20,Techniques,9,Crypto shredding,TRIAL
+20,Techniques,10,Infrastructure configuration scanner,TRIAL
+20,Techniques,11,Service mesh,TRIAL
+20,Techniques,12,Ethical OS,ASSESS
+20,Techniques,13,Smart contracts,ASSESS
+20,Techniques,14,Transfer learning for NLP,ASSESS
+20,Techniques,15,Wardley mapping,ASSESS
+20,Techniques,16,Productionizing Jupyter Notebooks,HOLD
+20,Techniques,17,Puncturing encapsulation with change data capture,HOLD
+20,Techniques,18,Release train,HOLD
+20,Techniques,19,Templating in YAML,HOLD
+20,Platforms,20,Contentful,ADOPT
+20,Platforms,21,AWS Fargate,TRIAL
+20,Platforms,22,EVM beyond Ethereum,TRIAL
+20,Platforms,23,InfluxDB,TRIAL
+20,Platforms,24,Istio,TRIAL
+20,Platforms,25,Kafka Streams,TRIAL
+20,Platforms,26,Nomad,TRIAL
+20,Platforms,27,CloudEvents,ASSESS
+20,Platforms,28,Cloudflare Workers,ASSESS
+20,Platforms,29,Deno,ASSESS
+20,Platforms,30,Hot Chocolate,ASSESS
+20,Platforms,31,Knative,ASSESS
+20,Platforms,32,MinIO,ASSESS
+20,Platforms,33,Prophet,ASSESS
+20,Platforms,34,Quorum,ASSESS
+20,Platforms,35,SPIFFE,ASSESS
+20,Platforms,36,Tendermint,ASSESS
+20,Platforms,37,TimescaleDB,ASSESS
+20,Tools,38,Cypress,ADOPT
+20,Tools,39,Jupyter,ADOPT
+20,Tools,40,LocalStack,ADOPT
+20,Tools,41,Terraform,ADOPT
+20,Tools,42,UI dev environments,ADOPT
+20,Tools,43,AnyStatus,TRIAL
+20,Tools,44,AVA,TRIAL
+20,Tools,45,batect,TRIAL
+20,Tools,46,Elasticsearch LTR,TRIAL
+20,Tools,47,Helm,TRIAL
+20,Tools,48,InSpec,TRIAL
+20,Tools,49,Lottie,TRIAL
+20,Tools,50,Stolon,TRIAL
+20,Tools,51,TestCafe,TRIAL
+20,Tools,52,Traefik,TRIAL
+20,Tools,53,Anka,ASSESS
+20,Tools,54,Cage,ASSESS
+20,Tools,55,Cilium,ASSESS
+20,Tools,56,Detekt,ASSESS
+20,Tools,57,Flagr,ASSESS
+20,Tools,58,Gremlin,ASSESS
+20,Tools,59,Honeycomb,ASSESS
+20,Tools,60,Humio,ASSESS
+20,Tools,61,Kubernetes Operators,ASSESS
+20,Tools,62,OpenAPM,ASSESS
+20,Tools,63,Systems,ASSESS
+20,Tools,64,Taurus,ASSESS
+20,Tools,65,Terraform provider GoCD,ASSESS
+20,Tools,66,Terratest,ASSESS
+20,Tools,67,Handwritten CloudFormation,HOLD
+20,Languages,68,Apollo,ADOPT
+20,Languages,69,MockK,ADOPT
+20,Languages,70,TypeScript,ADOPT
+20,Languages,71,Apache Beam,TRIAL
+20,Languages,72,Formik,TRIAL
+20,Languages,73,HiveRunner,TRIAL
+20,Languages,74,joi,TRIAL
+20,Languages,75,Ktor,TRIAL
+20,Languages,76,Laconia,TRIAL
+20,Languages,77,Puppeteer,TRIAL
+20,Languages,78,Reactor,TRIAL
+20,Languages,79,Resilience4j,TRIAL
+20,Languages,80,Room,TRIAL
+20,Languages,81,Rust,TRIAL
+20,Languages,82,WebFlux,TRIAL
+20,Languages,83,Aeron,ASSESS
+20,Languages,84,Arrow,ASSESS
+20,Languages,85,Chaos Toolkit,ASSESS
+20,Languages,86,Dask,ASSESS
+20,Languages,87,Embark,ASSESS
+20,Languages,88,fastai,ASSESS
+20,Languages,89,http4k,ASSESS
+20,Languages,90,Immer,ASSESS
+20,Languages,91,Karate,ASSESS
+20,Languages,92,Micronaut,ASSESS
+20,Languages,93,Next.js,ASSESS
+20,Languages,94,Pose,ASSESS
+20,Languages,95,react-testing-library,ASSESS
+20,Languages,96,ReasonML,ASSESS
+20,Languages,97,Taiko,ASSESS
+20,Languages,98,Vapor,ASSESS
